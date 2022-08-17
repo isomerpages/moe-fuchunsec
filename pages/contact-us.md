@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Fuchun Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "21"
+      - Woodlands Avenue 1
+      - Singapore 739062
+    operating_hours: []
+    maps_link: https://goo.gl/maps/eB9V1zb55siUZZ5S7
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6368 1984
+      - email: fcss@moe.edu.sg
+      - other: "Bus services:  187, 856, 912, 925, 926, 960, 961, 963, 966"
+    title: Telephone
+  - content:
+      - phone: +65 6367 0180
+      - email: ""
+      - other: "Nearest MRT Station:  Marsiling MRT Station"
+    title: Fax
 ---
