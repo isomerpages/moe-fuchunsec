@@ -44,3 +44,11 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img src="/images/alp11.jpg">
+<p><strong>Community Engagement</strong></p>
+<p>Our students shared about what they have learnt from the school&rsquo;s distinctive ALP programme at a community engagement booth during the Marsiling Community Day on 10 March 2019. This community event was graced by our Prime Minister Mr Lee Hsien Loong and attended by many residents in the Marsiling community.</p>
+<img src="/images/alp12.png">
+<p><strong>Hosting Overseas Delegates from Hong Kong</strong></p>
+<p>A group of 10 educators from Hong Kong visited our school on 5 April 2019 to find out about our ALP. Our students shared about their learning experiences from our ALP and showcased their learning artefacts with the visitors. The visitors have commended our students for the enthusiasm and confidence they demonstrated during their sharing.</p>
+<p>In September 2019, our school will be sending a team of students to Hong Kong on an immersive ALP trip. We have started liaising with some of the educators who visited us to plan meaningful school visits.</p>
+<img src="/images/alp13.png">
