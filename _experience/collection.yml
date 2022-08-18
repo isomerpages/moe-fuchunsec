@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Special Programmes/Environmental Programme.md
       - Special Programmes/Integrated Curriculum (Project Work).md
       - Special Programmes/Special Programmes.md
       - Special Programmes/.keep
