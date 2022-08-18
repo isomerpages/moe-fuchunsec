@@ -2,4 +2,5 @@ collections:
   experience:
     output: true
     order:
+      - 30th Anniversary Dance Marathon.md
       - School Magazine.md
