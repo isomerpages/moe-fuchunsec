@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - Co Curricular Activities/Co–Curricular Activities.md
       - Co Curricular Activities/.keep
       - Special Programmes/.keep
       - Special Programmes/Special Programmes.md
