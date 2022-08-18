@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - Fuchun Stories.md
       - Fuchun Fun Facts.md
       - Principal's Message.md
