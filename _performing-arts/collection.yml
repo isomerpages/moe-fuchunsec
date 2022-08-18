@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Indian Dance.md
       - Guitar Ensemble.md
       - Concert Band.md
       - Festive Drums & Lion Dance Troupe.md
