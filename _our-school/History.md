@@ -69,7 +69,23 @@ description: ""
 <li>The Concert Band (Bronze)</li>
 </ul>
 </ul>
-
+<p><strong>2010</strong></p>
+<p>Fuchun continues to achieve:</p>
+<p><strong>Academic<br /></strong>GCE 'O' Level<br />Value Added - Express (Silver)<br />Normal Academic (Bronze)</p>
+<p><strong>Sustained Achievement Award (Sports)<br /></strong><strong>4th Award<br /></strong>National Sepak Takraw 'C' Boys - 1st<br />National Sepak Takraw 'B' Boys - 2nd<br />North Zone Sepak Takraw 'C' Boys - 1st<br />North Zone Soccer 'C' Boys - 4th</p>
+<p><strong>Achievement Award (Uniformed Groups)<br /></strong>National Police Cadet Corps - Gold<br />Boys' Brigade - Silver<br />National Cadet Corps - Bronze</p>
+<p><strong>National Day Awards<br /></strong>National Day Efficiency Medal: Mdm Rajinee Devi<br />National Day Long Service Award: Mdm Hanim Ali</p>
+<p><strong>2011</strong></p>
+<p><strong>Fuchun celebrates 25 years of Quality Education<br /></strong>Guest of Honour: Mr Hawazi Daipi<br />Senior Parliamentary Secretary<br />Ministry of Education &amp; Ministry of Manpower</p>
+<p><strong>2011, another year of commendable achievements:</strong></p>
+<p><strong>GCE 'O' Level Value Added Results:<br /></strong>Express &amp; Normal Academic with top student achieving 9 Distinctions</p>
+<p><strong>Sustained Achievement Award - (Sports) 5th Award<br /></strong>National Schools Inter-regu (Sepak Takraw) 'C' Boys - 1st<br />North Zone Sepak Takraw 'C' Boys - 1st<br />North Zone Sepak Takraw 'B' Boys - 2nd<br />North Zone Soccer 'C' Boys - 4th<br />National Wei Qi Tournament Junior Category - 3rd</p>
+<p><strong>Achievement Award (Uniformed Groups)<br /></strong>Boys' Brigade - Gold<br />National Cadet Corps (Land Boys) - Silver<br />National Police Cadet Corps (Land) - Bronze<br />Girl Guides - Bronze<br />Girls' Brigade - Bronze</p>
+<p><strong>Staff Achievements<br /></strong><strong>MOE Innergy Award (C&amp;T) - GOLD<br /></strong><strong>PS 21 Best Project Award<br /></strong><strong>People Developer Standard</strong></p>
+<p><strong>National Day Award<br /></strong>National Day Efficiency Medal: Mdm Tan Suay Ling</p>
+<p><strong>2012</strong><br />Fuchun won the MOE INNERGY Gold Award for its project: 'Isogrid Ruler' and 5 of your students broke the Guinness World Record by partcipating in the creation of a Rangoli Art organized by Marsiling Community Club.</p>
+<p><strong>2013</strong><br />We clinched the Lotus Award for the SEC's Schools' Green Audit Award yet again as well as the Gold Award for the NEA 3R Awards. Another proud moment was winning the North West Community Development Council(NWCDC) Outstanding Partner Bronze Award.</p>
+<p><strong>2014</strong><br />The school achieved the highest honour of the Schools Green Audit - Lotus Sustained Achievement Award and the Singapore Environment Achievement Award. Fuchun continues to actualize the aspiration of an environmentally caring school. 2014 was also a proud phase in Fuchun's life as we gave birth to its first mascot, EON, on 17th January.</p>
 <img style="width: 45%;" src="/images/history4.jpg" />
 <img src="/images/history5.jpg">
 <img src="/images/history6.jpg">
