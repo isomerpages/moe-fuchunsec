@@ -1,4 +1,5 @@
 collections:
   experience:
     output: true
-    order: []
+    order:
+      - School Magazine.md
