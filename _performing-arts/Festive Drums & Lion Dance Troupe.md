@@ -46,3 +46,29 @@ description: ""
 <li>Lion Dance, Dragon Dance &amp; Festive Drums Performance for Fuchun Prize Presentation Day 2014</li>
 </ul>
 <p><strong><u>Photos</u></strong></p>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Fuchun Secondary School CCA Group photo - Festive Drums and Lion Dance Troupe</th>
+</tr>
+<tr>
+<td><img src="/images/lion2.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td><img src="/images/lion3.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">CCA group - Lion Dance Troupe Training</td>
+</tr>
+<tr>
+<td style="text-align: center;">Video</td>
+</tr>
+<tr>
+<td style="text-align: center;">CCA group - Lion Dance Troupe Training Video</td>
+</tr>
+</tbody>
+</table>
