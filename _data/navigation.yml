@@ -1,6 +1,23 @@
 logo: /images/fuchun.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our School
+    url: /our-school/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message
+      - title: Visions, Mission and Values
+        url: /our-school/visions-mission-and-values
+      - title: Student Creed
+        url: /our-school/student-creed
+      - title: Crest, Motto & Song
+        url: /our-school/crest-motto-n-song
+      - title: History
+        url: /our-school/history
+      - title: Our Mascot
+        url: /our-school/our-mascot
+      - title: Fuchun Stories
+        url: /our-school/fuchun-stories
+      - title: Fuchun Fun Facts
+        url: /our-school/fuchun-fun-facts
+      - title: Contact Us
+        url: /contact-us/
