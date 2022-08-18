@@ -2,6 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
+      - Chinese Dance.md
       - Indian Dance.md
       - Guitar Ensemble.md
       - Concert Band.md
