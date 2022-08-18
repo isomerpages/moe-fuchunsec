@@ -2,5 +2,6 @@ collections:
   performing-arts:
     output: true
     order:
+      - Guitar Ensemble.md
       - Concert Band.md
       - Festive Drums & Lion Dance Troupe.md
