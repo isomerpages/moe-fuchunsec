@@ -31,6 +31,45 @@ description: ""
 <p><strong>1999<br /></strong>The school went on a single session in January 1999 with a total of 38 classrooms.</p>
 <p style="text-align: center;"><strong>Millenium (2000-2005)<br /></strong><strong>&ldquo;Leaders. Learners. Explorers&rdquo;</strong></p>
 <img src="/images/history3.png">
+<p><strong>2001<br /></strong>The first annual school magazine was produced to chronicle the aspirations and endeavours of the school. The year also marked the official opening of the Performing Arts Studio by SAC Chairman, Mr Phillip Lee.</p>
+<p><strong>2002<br /></strong>The school bade farewell to Mr Johari Mohd Rais and welcomed Mrs Chuah-Koh Eng Ngoh as the new principal.</p>
+<p>Fuchun Concert Band performed at the Victoria Concert Hall on presenting Fuchun Symphonica II.</p>
+<p><strong>2003<br /></strong>Fuchun Student Creed was initiated and introduced to the school. This Creed was conceptualized by the student leaders and refined by the teachers.</p>
+<p style="text-align: center;"><strong>Our Student Creed<br /></strong>We are Fuchun students, special and unique.<br />We are compassionate, caring and upright.<br />We respect others and myself.<br />We are diligent and seek to excel.<br />We are loyal to our school and nation.<br />We are Fuchun students and this is our Creed.</p>
+<p><strong>2004<br /></strong>The school launched the CDP (Character Development Programme).</p>
+<p>The programme aims to develop our students into &lsquo;&rsquo; students who are well-rounded individuals with high self-esteem. &lsquo;STAR&rsquo; students are good team players who seek to bring out the best in others. They are good leaders grounded in strong values and are committed to the society and nation. They are excellent role models and are the best that they can be.</p>
+<p>It is a 4/5-year programme and there are 5 main areas : Leadership, Citizenship, Lifeskills, Service &amp; Co-curricular Activities.</p>
+<p><strong>The Logo<br /></strong>The figure of a student on the left becomes the figure of a &lsquo;STAR&rsquo; student on the right. A bold and bright star is emblazoned in the heart of this &lsquo;STAR&rsquo; student and represents the &lsquo;STAR&rsquo; qualities in the Character Development Programme.</p>
+<p><strong>2005<br /></strong>School Vision: A Learner, A Leader, An Explorer</p>
+<p>Mission: To bring out the best in our students and nurture them to become individuals with integrity, a passion for learning, a spirit of innovation and compassion for others in the pursuit of excellence.</p>
+<p>School Values: I CARE Integrity, Camaraderie, Adaptability, Responsibility and Excellence</p>
+<p><strong>2006<br /></strong>The school celebrated its 20th anniversary entitled &lsquo;Celebrating our STARS&rsquo; which is a fitting tribute to the school leaders, staff, students, members of our school advisory committee and partners for their unwavering support.</p>
+<p><strong>2007<br /></strong>The Mother Tongue Department embarked on a Cultural Immersion Programme, as part of the school&rsquo;s Twinning Programme, to Zhongde School in Beijing City, China. It aims to promote mutual sharing and quality interaction between the two schools and two cultures.</p>
+<p>The school bade farewell to Mrs Chuah-Koh Eng Ngoh and welcomed Miss Ranjit Kaur Dhaliwal to take over the helm.</p>
+<p>The school achieved the Sustained Achievement Award (Sports).</p>
+<p><strong>2008<br /></strong>The school focussed greatly on student and staff development. As part of holistic development and experiential learning of students, the Humanities and Physical Education departments embarked on a Cultural Exchange Programme to Perth Australia. Likewise, the English and Science Departments collaborated on an inaugural trip to the United Kingdom (UK), opening a new horizon where learning takes place beyond the classroom.</p>
+<p>As part of the school's effort to build staff capacity, the HOD PE/CCA went on a ten-week enhanced Professional Development Leave. The enriching learning experience and insights he gained from his educational journey has helped him to develop a greater understanding and confidence in carrying out interesting and exciting programmes for the holistic development of students.</p>
+<p>Mdm Elizabeth Wen Kai Fong, LH/English attended a programme on Management and Leadership in schools (MLS) at the National Institute of Education.</p>
+<p>The school was awarded the Sustained Achievement Award for SPORTS (2nd Award).</p>
+<p><strong>2009</strong></p>
+<p>THE SCHOOL&rsquo;S NICHE IS IN THE PERFORMING ARTS.</p>
+<p>The school attained remarkable achievements in the following areas:</p>
+<ul>
+<li>Value-added performance (Bronze) for the GCE &lsquo;O&rsquo; Level Examinations for Secondary 5 Normal Academic</li>
+<li>Achievement Awards (Uniformed Groups)</li>
+<li>Achievement Award (Aesthetics)</li>
+<li>CHERISH Award (Silver)</li>
+<li>Singapore Youth Festival Achievements</li>
+<ul>
+<li>Chinese Dance (Gold)</li>
+<li>Malay Dance (Silver)</li>
+<li>Indian Dance (Silver)</li>
+<li>Modern Dance (Bronze)</li>
+<li>Guzheng Ensemble (Silver)</li>
+<li>The Concert Band (Bronze)</li>
+</ul>
+</ul>
+
 <img style="width: 45%;" src="/images/history4.jpg" />
 <img src="/images/history5.jpg">
 <img src="/images/history6.jpg">
