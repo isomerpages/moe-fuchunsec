@@ -2,4 +2,5 @@ collections:
   performing-arts:
     output: true
     order:
+      - Concert Band.md
       - Festive Drums & Lion Dance Troupe.md
