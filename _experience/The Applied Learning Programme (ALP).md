@@ -31,3 +31,16 @@ description: ""
 <p><strong>ALP Maker Faire 2018 Participation</strong></p>
 <p>Two teams of students participated in Maker Faire 2018 (17 &ndash; 19 Aug 2018), where they showcased their robots conceptualised, designed and built by them. Both robots were the result of months of hard work, perseverance, innovation and resourcefulness. The experience was enriching for the students as they get to interact, share and receive feedback from the public.</p>
 <img src="/images/alp7.png">
+<p><strong>Overseas Learning Journey to Shen Zhen, China</strong></p>
+<p>Our students had an immersive 4D3N experience where they visited Makeblock (who designed and markets mBots and Airblocks) and schools in Shen Zhen that integrated robotics in education. The trip provided the students the opportunity to interact with some of the designers in MakeBlock, who shared on their work ethics and passion as well as how they keep their creative juices flowing by having fun design competitions in their workplace. The interaction with student counterparts in China strengthened our students&rsquo; commitment to face challenges in a VUCA environment, to be humble in receiving feedback and to be courageous to try out new ideas.</p>
+<table>
+<tbody>
+<tr>
+<th colspan="2"><img src="/images/alp8.jpg"></th>
+</tr>
+<tr>
+<td><img src="/images/alp9.jpg"></td>
+<td><img src="/images/alp10.jpg"></td>
+</tr>
+</tbody>
+</table>
