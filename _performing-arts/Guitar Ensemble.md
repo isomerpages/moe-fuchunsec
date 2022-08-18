@@ -42,3 +42,4 @@ description: ""
 <p><strong><u>Singapore Youth Festival 2017<br /></u></strong>Our Guitar Ensemble was well-prepared and had demonstrated considerable artistry, making for an engaging listening experience. There was a good balance of exciting rhythmic vitality and refined sensitivity.</p>
 <p>Our players performed at a high standard of precision and harmonic support. Their performance exuded musicality and carefully-planned interpretations that utilised clear sectional contrasts of dynamic texture and colour.</p>
 <p>Indeed a well-deserved Certificate of Distinction for our Guitar Ensemble teachers and students.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgwfC-1NSR6H_xr6GqOg8YtT1AqaNIx2yD3s5J3khMoNOky6Uq0Dgzvi2RMcBgA5n8WnUOYLBG43xi/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
