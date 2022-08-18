@@ -49,3 +49,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Once every 2 years, the school participates in the&nbsp;<strong>Singapore Youth Festival Arts Presentation</strong>. Our performing arts groups consistently bring pride to the school by achieving distinctive accolades. Each and every performing arts CCA member understands the true meaning of grit, resilience and camaraderie in the SYF journey. The goal has been nothing short of excellence each and every time!</p>
+<p><strong>Tier 2+ : Development of DANCE LEADERS who strive for excellence while leading and/or representing the school in arts-related events</strong></p>
+<ul>
+<li>The annual&nbsp;<u>MOE Youth Dance Camp</u>&nbsp;develops and enhances further, the students&rsquo; aptitude in dance and enables them to be stronger role models to their peers.</li>
+<li>Our&nbsp;<u>annual primary school outreach programme</u>&nbsp;acts as a platform for the students to represent school and lead dance presentations and demonstrations.&nbsp;</li>
+</ul>
+<p><strong> Staff Engagement in LLP<br /></strong>Our distinctive programme not only aims to bring a positive impact for the students but also includes all staff as well. FCS teachers participate in the annual Staff Dance Programme, which exposes them to various dance genres such as Ethnic, Hip Hop and Latin dance.</p>
+<img src="/images/llp16.png">
+<p><strong>Achievements</strong></p>
+<p><strong>Malay Dance Amra Tari</strong></p>
+<ul>
+<li>2019 SYF - Certificate of Distinction</li>
+<li>2018 Cairhill CC Malay Dance Competition - 2nd</li>
+<li>2017 SYF - Certificate of Distinction</li>
+<li>2015 SYF - Certificate of Distinction</li>
+</ul>
+<p><strong>Indian Dance</strong></p>
+<ul>
+<li>2019 SYF - Certificate of Distinction</li>
+<li>2017 SYF - Certificate of Distinction</li>
+<li>2015 SYF - Certificate of Distinction</li>
+</ul>
+<p><strong>Chinese Dance</strong></p>
+<ul>
+<li>2019 SYF - Certificate of Accomplishment</li>
+<li>2018 Lion City Cup Dance Competition - Gold with Honours</li>
+<li>2017 SYF - Certificate of Accomplishment</li>
+<li>2015 SYF - Certificate of Distinction</li>
+</ul>
+<p><strong>Modern Dance</strong></p>
+<ul>
+<li>2019 SYF - Certificate of&nbsp;Accomplishment</li>
+<li>2017 SYF - Certificate of&nbsp;Accomplishment</li>
+<li>2015 SYF - Certificate of&nbsp;Accomplishment</li>
+</ul>
