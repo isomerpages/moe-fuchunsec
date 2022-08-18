@@ -19,3 +19,15 @@ description: ""
 <p><strong>ALP Maker Faire 2018 Participation</strong></p>
 <img style="width: 33%;" src="/images/alp3.jpg" align = "right" />
 <p>Two teams of students participated in&nbsp;<strong>Maker Faire 2018 (17 &ndash; 19 Aug 2018)</strong>, where they&nbsp;<strong>showcased their robots conceptualised, designed and built by them.</strong> Both robots were the result of months of hard work, perseverance, innovation and resourcefulness. The experience was enriching for the students as they get to interact, share and receive feedback from the public.</p>
+<img src="/images/alp4.jpg">
+<p><strong>ALP Programme featured on &ldquo;The Big Question &ndash; The Future of Work&rdquo; (Channel News Asia broadcast on 18 Mar 2018), media visit by MOE Communications Division, Communications and Engagement Group.</strong></p>
+<p>Our ALP programme was highlighted through the different media broadcast. The experiences boosted school pride for the students and strengthened their belief and interest in STEM-related fields. More details can be obtained through the following web links.</p>
+<p><a href="https://www.channelnewsasia.com/news/video-on-demand/the-big-questions/the-future-of-work-10045340" target="_blank" rel="noopener">https://www.channelnewsasia.com/news/video-on-demand/the-big-questions/the-future-of-work-10045340</a><br /><br /><a href="https://www.facebook.com/moesingapore/" target="">https://www.facebook.com/moesingapore/ (Posted on 24 Jan 2019 at 0200)</a><br /><br /><a href="https://www.moe.gov.sg/news/speeches/moe-fy2018-committee-of-supply-debate-response-by-minister-for-education-schools---mr-ng-chee-meng" target="">https://www.moe.gov.sg/news/speeches/moe-fy2018-committee-of-supply-debate-response-by-minister-for-education-schools---mr-ng-chee-meng</a></p>
+<img src="/images/alp5.jpg">
+<p>Our students continue to make waves in the&nbsp;<strong>Ngee Ann Polytechnic Marine &amp; Offshore Challenge 2018 Competition</strong>&nbsp;clinching the following prizes with our in-house designs made in our very own DEEP lab. The 3D printers allowed students to create, fabricate models, test, develop and refine their prototypes as they find the winning solution.</p>
+<p><u><strong>SHIP CATEGORY<br /></strong></u>1. Most innovative hull design award&nbsp;Gold<br />2. Most innovative propulsion design award&nbsp;Gold<br />3. Best performance Ship award&nbsp;Silver</p>
+<p><strong><u>SUBMARINE CATEGORY<br /></u></strong>1. Best performance Sub award&nbsp;Silver<br />2. Best Aesthetics &amp; workmanship award&nbsp;Gold</p>
+<img src="/images/alp6.jpg">
+<p><strong>ALP Maker Faire 2018 Participation</strong></p>
+<p>Two teams of students participated in Maker Faire 2018 (17 &ndash; 19 Aug 2018), where they showcased their robots conceptualised, designed and built by them. Both robots were the result of months of hard work, perseverance, innovation and resourcefulness. The experience was enriching for the students as they get to interact, share and receive feedback from the public.</p>
+<img src="/images/alp7.png">
