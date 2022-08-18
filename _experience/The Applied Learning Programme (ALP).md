@@ -15,3 +15,7 @@ description: ""
 <p><em><u>Some highlights of past engagements:</u></em></p>
 <p><strong>ALP In-House Learning Journey</strong></p>
 <p>To provide a richer experience for our Secondary 3 students under our Tier 1 ALP programme, the school worked with our partner, M/s Dream Catcher Technologies Pte Ltd, to conduct an in-house learning journey. The students deepened their understanding of robotics with hands-on experiences with airblock, mBots and MakeBlock. The English Department also took the opportunity to further engage the students by having the 3 express students do a write-up on the event as their Task-Based Assignment.</p>
+<img src="/images/alp2.jpg">
+<p><strong>ALP Maker Faire 2018 Participation</strong></p>
+<img style="width: 33%;" src="/images/alp3.jpg" align = "right" />
+<p>Two teams of students participated in&nbsp;<strong>Maker Faire 2018 (17 &ndash; 19 Aug 2018)</strong>, where they&nbsp;<strong>showcased their robots conceptualised, designed and built by them.</strong> Both robots were the result of months of hard work, perseverance, innovation and resourcefulness. The experience was enriching for the students as they get to interact, share and receive feedback from the public.</p>
