@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - The Applied Learning Programme (ALP).md
       - 30th Anniversary Dance Marathon.md
       - School Magazine.md
