@@ -172,3 +172,121 @@ third_nav_title: Special Programmes
 <li>School Green Audit Award (SGA) 2018 - Yellow Flame Award</li>
 </ul>
 <p><strong>Photos</strong></p>
+<table>
+<tbody>
+<tr>
+<td><img src="/images/ep1.jpg"></td>
+<td><img src="/images/ep2.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/ep3.jpg"></td>
+<td><img src="/images/ep4.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/ep5.jpg"></td>
+<td><img src="/images/ep6.jpg"></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td><img src="/images/ep7.jpg"></td>
+<td><img src="/images/ep8.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Recycling Challenge</td>
+<td style="text-align: center;">Green Message</td>
+</tr>
+<tr>
+<td><img src="/images/ep9.jpg"></td>
+<td><img src="/images/ep10.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Bright Spots @ NW</td>
+<td style="text-align: center;">Recycling Art Workshop&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep11.jpg"></td>
+<td><img src="/images/ep12.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Visit to Sungei Buloh</td>
+<td style="text-align: center;">Return Your Tray Campaign&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep13.jpg"></td>
+<td><img src="/images/ep14.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Visit To Marina Barrage&nbsp;</td>
+<td style="text-align: center;">North West Environmental Regional workshop cum Green Living Awards Ceremony 2018&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep15.jpg"></td>
+<td><img src="/images/ep16.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Assembly Talk by WWF</td>
+<td style="text-align: center;">Youth For the Environment Day 2018&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep17.jpg"></td>
+<td><img src="/images/ep18.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Earth Day Youth Competition</td>
+<td style="text-align: center;">Reduce @ NW&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep19.jpg"></td>
+<td><img src="/images/ep20.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Panasonic-NEA Environment Champions (School) Industry Module</td>
+<td style="text-align: center;">WWF Climate Change workshop&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/ep21.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">Outing To Gardens By the Bay</td>
+</tr>
+<tr>
+<td><img src="/images/ep22.jpg"></td>
+<td><img src="/images/ep23.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">Northwest Clean &amp; Green Workshop Programme&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/ep24.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">Community Garden Training</td>
+</tr>
+<tr>
+<td><img src="/images/ep25.jpg"></td>
+<td><img src="/images/ep26.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2">Pledge against Climate Change Climate Action Panel Display</td>
+</tr>
+<tr>
+<td><img src="/images/ep27.jpg"></td>
+<td><img src="/images/ep28.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Green Wave Environmental Care Competition 2018</td>
+<td style="text-align: center;">Food Waste Composting&nbsp;</td>
+</tr>
+<tr>
+<td><img src="/images/ep29.jpg"></td>
+<td><img src="/images/ep30.jpg"></td>
+</tr>
+<tr>
+<td style="text-align: center;">FairPrice Share-A-Textbook 2018</td>
+<td style="text-align: center;">Nature Walk</td>
+</tr>
+</tbody>
+</table>
