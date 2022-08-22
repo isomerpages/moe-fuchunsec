@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Departments/Information & Communication Technology.md
       - Departments/Student Development.md
       - Departments/.keep
       - GPs & Co GPs/GPs & Co–GPs.md
