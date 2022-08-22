@@ -336,4 +336,24 @@ third_nav_title: Departments
 </tr>
 </tbody>
 </table>
-</div>
+<p><strong><u>Achievements</u></strong></p>
+<ul>
+<li>Star Awards 2017</li>
+<ul>
+<li>CCE Stars</li>
+<li>Student Council Stars</li>
+<li>Camp Leader Star</li>
+<li>ECHA Awards</li>
+<li>VIA Star</li>
+<li>Student of the month&nbsp;</li>
+<li>Environmental Class Award</li>
+<li>Best Class Award (By Stream)</li>
+<li>Rotary Club Bursary</li>
+<li>Alumni Bursary</li>
+<li>Parents Support Group Bursary</li>
+</ul>
+<li>NWCDC Partners Award (Gold)</li>
+<li>Peoples&rsquo; Association Community Spirit Award (Merit)</li>
+<li>VIA Projects for Sec 5 (World) - Sec 5 Leo &amp; 4 Arm raised $1620 and adopted 3 children from World Vision (increase of 1 child since the adoption in 2015)</li>
+<li>VIA Projects for Sec 3 Lin &amp; 3 Goe (Community) &ndash; Students of each class organized a block party themed National Day &amp; Hari Raya respectively, engaging the residents at Marsiling Blk 16 (Fuchun&rsquo;s adopted block) in songs, dance, games and food.</li>
+</ul>
