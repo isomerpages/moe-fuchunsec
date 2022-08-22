@@ -36,3 +36,18 @@ links:
         url: /experience/30th-anniversary-dance-marathon
       - title: School Magazine
         url: /files/FCSSMag2019.pdf
+  - title: Our Community
+    url: /our-community/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee
+      - title: School Management Committee
+        url: /our-community/school-management-committee
+      - title: Departments
+        url: /our-community/departments/english-n-literature
+      - title: GPs & Co-GPs
+        url: /our-community/gps-n-co-gps
+      - title: Parent Support Group (PSG)
+        url: /our-community/parent-support-group-psg
+      - title: Alumni
+        url: /our-community/alumni
