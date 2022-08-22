@@ -133,3 +133,37 @@ third_nav_title: Departments
 <li>CCA Passing Rate (Good &amp; Excellent grade): 94.4%</li>
 <li>Excellent Grade in CCA: 77.3%</li>
 </ul>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;" colspan="2"><strong>Interclass games for Sec 4NA/NT</strong></th>
+</tr>
+<tr>
+<td><img src="/images/pe2.jpg"></td>
+<td><img src="/images/pe3.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/pe4.jpg"></td>
+<td><img src="/images/pe5.jpg"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;" colspan="2"><strong>Sports Day Track Event</strong></th>
+</tr>
+<tr>
+<td><img src="/images/pe6.jpg"></td>
+<td><img src="/images/pe7.jpg"></td>
+</tr>
+<tr>
+<td><img src="/images/pe8.jpg"></td>
+<td><img src="/images/pe9.jpg"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/pe10.jpg"></td>
+</tr>
+</tbody>
+</table>
