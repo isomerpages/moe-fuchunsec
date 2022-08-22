@@ -4,6 +4,7 @@ permalink: /our-community/departments/science
 description: ""
 third_nav_title: Departments
 ---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzKR0f-gkq7HS8ZeH07dfnII-NCaqZt0hQ7WnzpRVpJ-A5hMcSjc9HsVGZIocGBMawNtjWW9_MgLdS/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <table>
 <tbody>
 <tr>
