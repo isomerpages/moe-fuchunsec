@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - For Students/Post Secondary Education.md
       - For Students/Purchase of School Textbook and Uniform for 2022.md
       - For Students/School Calendar.md
       - For Students/Examination Schedule.md
