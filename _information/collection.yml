@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - For Parents/Travel Declaration.md
       - For Parents/MOE Financial Assistance Scheme.md
       - For Parents/Sec 2 Streaming Exercise.md
       - For Parents/Weighted Assessment Schedule 2022.md
