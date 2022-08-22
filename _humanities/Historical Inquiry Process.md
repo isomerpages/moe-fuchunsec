@@ -19,4 +19,6 @@ description: ""
 <h4><strong>SECONDARY 1 LEARNING-ON-THE-MOVE CHINATOWN TRAIL</strong></h4>
 <p>Our Secondary 1 History students had a chance to explore the one of the pre-war neighbourhoods in Singapore, namely Chinatown, where many buildings still bear the same fa&ccedil;ade since 1900s! Through this learning journey, our students got a chance to understand how the early immigrants lived their lives while sharing the same neighbourhood with people from other races and walks of life!</p>
 <img src="/images/hip2.png">
+<h4><strong>SECONDARY 1 ORIENTATION WEEK HERITAGE TOUR</strong></h4>
+<p>Our Secondary 1 students embarked on a tour around Woodlands as part of their orientation, of which they visited many places of interest that are of significance in the town of Woodlands. It was an enriching experience since many of them would not have paid any attention or were not aware of the stories behind some of the older buildings in town. What an eye-opening tour!</p>
 <img src="/images/hip3.jpg">
