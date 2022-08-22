@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - For Students/Useful Links.md
       - For Students/.keep
