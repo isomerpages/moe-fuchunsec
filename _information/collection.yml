@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - For Students/Examination Schedule.md
       - For Students/Class Timetable.md
       - For Students/CCA Timetable.md
       - For Students/Useful Links.md
