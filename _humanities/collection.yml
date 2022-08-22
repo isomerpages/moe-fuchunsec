@@ -2,6 +2,7 @@ collections:
   humanities:
     output: true
     order:
+      - Geographical Inquiry (GI) Through Fieldwork.md
       - Geographical Inquiry Approach.md
       - Social Studies Curriculum Approach.md
       - Historical Inquiry Process.md
