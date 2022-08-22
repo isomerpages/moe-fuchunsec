@@ -2,4 +2,4 @@ collections:
   humanities:
     output: true
     order:
-      - Example Title.md
+      - Humanities.md
