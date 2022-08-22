@@ -13,3 +13,47 @@ description: ""
 <li>No medical issues relating to altitude or sight (such as Asthma, Heart Related Issues, Colour Blind, Altitude Sickness or Very Overweight)</li>
 </ul>
 <img src="/images/syfc.jpeg">
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Training Days &amp; Time</th>
+<th style="text-align: center;">Teacher(s)-In-Charge</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div>Fridays: 1500 - 1800</div>
+<div><em>D&amp;T Technical Block</em></div>
+</td>
+<td style="text-align: center;">
+<div>Mr Richard Au</div>
+<div>Mr Ng Chao Xiang</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Events &amp; Achievements</strong></p>
+<ul>
+<li>Singapore Amazing Flying Machine (SAFMC) 2019 Category B</li>
+<li>SYFC Interschool Competition 2019 (Flight Simulation &amp; Parrot Drone FPV)</li>
+<li>Ngee Ann Polytechnic AeroChallenge 2018</li>
+<li>GliderFest 2016 @ Republic Polytechnic</li>
+<ul>
+<li>Best Aesthetic Glider</li>
+</ul>
+</ul>
+<p><strong><u>Photos</u></strong></p>
+<table>
+<tbody>
+<tr>
+<td><img src="/images/syfc1.jpeg"></td>
+<td><img src="/images/syfc2.jpeg"></td>
+</tr>
+<tr>
+<td><img src="/images/syfc3.jpeg"></td>
+<td><img src="/images/syfc4.jpeg"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="/images/syfc5.jpeg"></td>
+</tr>
+</tbody>
+</table>
