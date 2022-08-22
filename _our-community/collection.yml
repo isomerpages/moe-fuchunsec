@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Departments/Mathematics.md
       - Departments/Science.md
       - Departments/Mother Tongue.md
       - Departments/Humanities.md
