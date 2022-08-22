@@ -2,4 +2,4 @@ collections:
   sexuality-education:
     output: true
     order:
-      - Example Title.md
+      - Sexuality Education.md
