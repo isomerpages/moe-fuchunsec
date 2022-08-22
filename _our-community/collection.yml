@@ -2,6 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Alumni/Example Title.md
+      - Alumni/Our Star Students.md
       - Alumni/We are Proud of You.md
       - Alumni/.keep
