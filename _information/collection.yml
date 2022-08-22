@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - For Students/CCA Timetable.md
       - For Students/Useful Links.md
       - For Students/.keep
