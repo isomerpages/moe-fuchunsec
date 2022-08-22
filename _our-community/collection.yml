@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Departments/.keep
       - GPs & Co GPs/GPs & Co–GPs.md
       - GPs & Co GPs/Secondary Two.md
       - GPs & Co GPs/Secondary Three.md
