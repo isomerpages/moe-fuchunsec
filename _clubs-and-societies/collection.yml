@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Robotics.md
       - Infocomm Technology.md
       - Green Club.md
       - Singapore Youth Flying Club.md
