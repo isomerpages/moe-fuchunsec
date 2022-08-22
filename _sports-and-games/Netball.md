@@ -36,3 +36,6 @@ description: ""
 <li>Student-organised Values-in-Action Project with Big Apple Child Care &amp; Development<br />Centre (15 March 2017)</li>
 </ul>
 <p><strong><u>Photos</u></strong></p>
+<img src="/images/nb2.png">
+<img src="/images/nb3.png">
+<img src="/images/nb4.png">
