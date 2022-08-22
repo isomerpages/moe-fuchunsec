@@ -2,5 +2,6 @@ collections:
   humanities:
     output: true
     order:
+      - Social Studies Curriculum Approach.md
       - Historical Inquiry Process.md
       - Humanities.md
