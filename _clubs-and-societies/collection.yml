@@ -2,4 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Green Club.md
       - Singapore Youth Flying Club.md
