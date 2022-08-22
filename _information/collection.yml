@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - For Parents/Weighted Assessment Schedule 2022.md
       - For Parents/.keep
       - For Students/ICT Acceptable Use Policy.md
       - For Students/Post Secondary Education.md
