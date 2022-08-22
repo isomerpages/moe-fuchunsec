@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - GPs & Co GPs/Secondary Four & Five.md
       - GPs & Co GPs/.keep
       - Parent Support Group (PSG).md
       - Alumni/Alumni.md
