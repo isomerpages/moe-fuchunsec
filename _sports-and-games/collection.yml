@@ -2,6 +2,7 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Sepak Takraw.md
       - Football (Boys).md
       - Basketball (Boys).md
       - Netball.md
