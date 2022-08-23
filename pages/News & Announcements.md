@@ -22,27 +22,30 @@ description: ""
 <tr>
 <td style="width: 20%;"><img src="/images/news.jpg"></td>
 <td style="width: 80%;"><p><strong>2022 Class Timetable Term 2<br /></strong>Dear Students, here is your timetable for Term 2. See you soon and stay safe!</p>
-<p style="text-align: right;"><a href="https://fuchunsec-moe-edu-sg-admin.cwp.sg/information/class-timetable">Read More...</a></p></td>
+<p style="text-align: right;"><a href="/information/class-timetable">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/pm.jpg"></td>
+<td style="width: 80%;"><p><strong>Principal's Message<br /></strong>From our new Principal, Mr Shawal.</p>
+<p style="text-align: right;"><a href="/our-school/principals-message">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/news.jpg"></td>
+<td style="width: 80%;"><p><strong>2022 Class Timetable Term 1<br /></strong>Dear students, here is your timetable for Semester 1 2022. See you on 4 January!</p>
+<p style="text-align: right;"><a href="/files/2022%20Class%20Timetable%20Sem%201.pdf">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td colspan = "2"><p><strong>No Intake for S1 Posting 2022<br /></strong>Fuchun Secondary School and Woodlands Ring Secondary School will merge in January 2025. The merged school will be located at Woodlands Ring Secondary School site. Fuchun Secondary School will not be participating in DSA-Sec and S1 posting from 2021 onwards.</p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/news.jpg">;</td>
+<td style="width: 80%;"><p><strong>Sec 1 to 3 EOY Examinations<br /></strong>Dear S1 to S3 students, here is the schedule for your End-of-Year Examinations.</p>
+<p style="text-align: right;"><a href="/information/examination-schedule">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/news.jpg"></td>
+<td style="width: 80%;"><p><strong>Class Timetable (Sem 2 2021)<br /></strong>Dear students, here is your timetable for Semester 2. Please do take note that odd and even week timetables are different. Thank you.</p>
+<p style="text-align: right;"><a href="/files/Class%20Timetable%20Sem%202%202021.pdf">Read More...</a></p></td>
 </tr>
 <tr>
 <td style="width: 24.0057%;">&nbsp;</td>
