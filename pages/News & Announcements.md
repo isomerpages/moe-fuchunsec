@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td style="width: 20%;"><img src="/images/news.jpg"></td>
 <td style="width: 80%;"><p><strong>[Sec 4/5] Mid-Year Exam Schedule<br /></strong>Dear Sec 4/5 students, here is the schedule for your Mid-Year Examination. All the best!</p>
-<p style="text-align: right;"><a href="https://fuchunsec.moe.edu.sg/information/examination-schedule">Read More...</a></p></td>
+<p style="text-align: right;"><a href="/information/examination-schedule">Read More...</a></p></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/news.jpg"></td>
@@ -48,15 +48,16 @@ description: ""
 <p style="text-align: right;"><a href="/files/Class%20Timetable%20Sem%202%202021.pdf">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/in.jpg"></td>
+<td style="width: 80%;"><p><strong>School-Home Link (Term 3 2021)<br /></strong>Dear Parents, here is the School-Home Link for Term 3. Thank you.</p>
+<p style="text-align: right;"><a href="files/School_Home_Link_T3_2021.pdf">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;">&nbsp;</td>
+<td style="width: 80%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/in.jpg"></td>
 <td style="width: 75.9943%;">&nbsp;</td>
 </tr>
 <tr>
