@@ -53,16 +53,19 @@ description: ""
 <p style="text-align: right;"><a href="files/School_Home_Link_T3_2021.pdf">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 20%;">&nbsp;</td>
-<td style="width: 80%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/new.jpg"></td>
+<td style="width: 80%;"><p><strong>School - Home Link Issue 2<br /></strong>Read our latest School-Home Link for Term 2!</p>
+<p style="text-align: right;"><a href="https://fuchunsec-moe-edu-sg-admin.cwp.sg/qql/slot/u371/Parents/School-Home%20Link/School_Home_Link_T2_2021_20Apr.pdf">Read More...</a></p></td>
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/in.jpg"></td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 80%;"><p><strong>Mid-Year Examinations 2021 (Sec 4 &amp; 5 only)<br /></strong>Dear S4/5 students, please refer here for the mid-year examination timetable. Please note that lessons are as per normal on 12 and 14 May.</p>
+<p style="text-align: right;"><a href="/information/examination-schedule">Read More...</a></p></td>
 </tr>
 <tr>
-<td style="width: 24.0057%;">&nbsp;</td>
-<td style="width: 75.9943%;">&nbsp;</td>
+<td style="width: 20%;"><img src="/images/news.jpg"></td>
+<td style="width: 80%;"><p><strong>Timetable (Term 2 2021)<br /></strong>Dear students, there will a change to the timetable for Term 2. Please refer here for the latest class timetables.</p>
+<p style="text-align: right;"><a href="/files/Class%20Timetable%20T2%202021.pdf">Read More...</a></p></td>
 </tr>
 </tbody>
 </table>
