@@ -8,7 +8,7 @@ description: ""
 <tr>
 <td style="width: 20%;"><img src="/images/Exams.jpg"></td>
 <td style="width: 80%;"><p><strong>End-Of-Year Exam Schedule<br /></strong>Dear students, here is the schedule for your End-of-Year Examination. All the best!</p>
-<p style="text-align: right;"><a href="/information/examinations-timetable">Read More...</a></p></td>
+<p style="text-align: right;"><a href="/information/examination-schedule">Read More...</a></p></td>
 </tr>
 <tr>
 <table style="border-collapse: collapse; width: 100%;" border="1">
