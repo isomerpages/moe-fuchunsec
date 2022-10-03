@@ -8,13 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/banner.gif
-      key_highlights:
-        - title: School Event Calendar
-          description: ""
-          url: /information/school-calendar
   - infobar:
       title: News & Announcements
       description: "To navigate to the link above please "
       button: Click here
       url: /others/news-n-announcements
+  - infobar:
+      title: School Event Calendar
+      description: To navigate to the link above please
+      button: Click Here
+      url: /information/school-calendar
 ---
