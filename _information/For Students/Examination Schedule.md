@@ -10,5 +10,3 @@ third_nav_title: For Students
 <br /><a href="/files/3E_2022_ EOY Exam TT.pdf">3E_2022_ EOY Exam TT.pdf
 <br /><a href="/files/3NA_2022_ EOY Exam TT.pdf">3NA_2022_ EOY Exam TT.pdf 
 <br /><a href="/files/3NT_2022_ EOY Exam TT.pdf">3NT_2022_ EOY Exam TT.pdf</a></p>
-
-
