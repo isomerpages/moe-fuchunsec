@@ -6,7 +6,7 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 20%;"><img src="/images/exams.jpg"></td>
+<td style="width: 20%;"><img src="/images/Exams.jpg"></td>
 <td style="width: 80%;"><p><strong>End-Of-Year Exam Schedule<br /></strong>Dear students, here is the schedule for your End-of-Year Examination. All the best!</p>
 <p style="text-align: right;"><a href="/information/class-timetable">Read More...</a></p></td>
 <table style="border-collapse: collapse; width: 100%;" border="1">
