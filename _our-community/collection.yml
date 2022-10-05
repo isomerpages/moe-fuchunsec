@@ -1,0 +1,26 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - Departments/English & Literature.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Mother Tongue.md
+      - Departments/Humanities.md
+      - Departments/Craft & Technology.md
+      - Departments/Physical Education.md
+      - Departments/Information & Communication Technology.md
+      - Departments/Student Development.md
+      - Departments/.keep
+      - GPs & Co GPs/GPs & Co–GPs.md
+      - GPs & Co GPs/Secondary Two.md
+      - GPs & Co GPs/Secondary Three.md
+      - GPs & Co GPs/Secondary Four & Five.md
+      - GPs & Co GPs/.keep
+      - Parent Support Group (PSG).md
+      - Alumni/Alumni.md
+      - Alumni/Our Star Students.md
+      - Alumni/We are Proud of You.md
+      - Alumni/.keep
