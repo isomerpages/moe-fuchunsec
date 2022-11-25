@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/maker.gif
   - infobar:
       title: News & Announcements
       description: "To navigate to the link above please "
