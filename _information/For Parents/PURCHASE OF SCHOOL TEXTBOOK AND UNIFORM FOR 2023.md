@@ -43,7 +43,6 @@ SALES OF SCHOOL UNIFORMS
 
 Our supplier is Finest Fashion Centre. You may follow the steps we outlined below to transact online.  
 
-  
 
 To Order:
 
@@ -51,11 +50,18 @@ To Order:
 *   Key in password: Fuchun22b
 *   Delivery code: freeShipDc
 *   Place online orders for home delivery or self-collection at the supplier's office.
-
 *   Address: 1004 Toa Payoh North #07-08/09, Singapore 318995.
 *   Opening hours: Mon to Fri, 10am to 4pm
 
-<h4><strong>BOOK LISTS FOR 2023</strong></h4>
-<p><a href="/files/Booklist%2023_FCS_3E.pdf">Booklist_2023_FCS_3E.pdf</a><br /><a href="/files/Booklist%202022_FCS_2NA.pdf">Booklist 2022_FCS_2NA.pdf</a><br /><a href="/files/Booklist%202022_FCS_2NT.pdf">Booklist 2022_FCS_2NT.pdf</a></p>
-<p><a href="/files/Booklist%202022_FCS_3E.pdf">Booklist 2022_FCS_3E.pdf</a><br /><a href="/files/Booklist%202022_FCS_3NA.pdf">Booklist 2022_FCS_3NA.pdf</a><br /><a href="/files/Booklist%202022_FCS_3NT.pdf">Booklist 2022_FCS_3NT.pdf</a></p>
-<p><a href="/files/Booklist%202022_FCS_4E.pdf">Booklist 2022_FCS_4E.pdf</a><br /><a href="/files/Booklist%202022_FCS_4NA.pdf">Booklist 2022_FCS_4NA.pdf</a><br /><a href="/files/Booklist%202022_FCS_4NT.pdf">Booklist 2022_FCS_4NT.pdf</a><br /><a href="/files/Booklist%202022_FCS_5NA.pdf" target="">Booklist 2022_FCS_5NA.pdf</a></p>
+#### Book list of 2023
+
+[Booklist 2023_FCS_3E.pdf](/files/Booklist%202023_FCS_3E.pdf)       
+[Booklist 2023_FCS_3NA.pdf](/files/Booklist%202023_FCS_3NA.pdf)    
+[Booklist 2023_FCS_3NT.pdf](/files/Booklist%202023_FCS_3NT.pdf)
+
+[Booklist 2023_FCS_4E.pdf](/files/Booklist%202023_FCS_4E.pdf)       
+[Booklist 2023_FCS_4NA.pdf](/files/Booklist%202023_FCS_4NA.pdf)    
+[Booklist 2023_FCS_4NT.pdf](/files/Booklist%202023_FCS_4NT.pdf)   
+[Booklist 2023_FCS_5NA.pdf](/files/Booklist%202023_FCS_5NA.pdf)
+
+
