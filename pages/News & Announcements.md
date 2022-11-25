@@ -5,6 +5,10 @@ description: ""
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
+	<tr>
+<td style="width: 20%;"><img src="/images/73a408d6c_3554.png"></td>
+<td style="width: 80%;"><p><strong>Purchase of School Uniform and Books<br /></strong>Dear All, here is the information for purchasing of school uniform and books for 2023</p>
+<p style="text-align: right;"><a href="/information/For-Parents/purchase-of-school-textbook-and-uniform-for-2023/">Read More...</a></p></td>
 <tr>
 <td style="width: 20%;"><img src="/images/Exams.jpg"></td>
 <td style="width: 80%;"><p><strong>End-Of-Year Exam Schedule<br /></strong>Dear students, here is the schedule for your End-of-Year Examination. All the best!</p>
@@ -69,11 +73,13 @@ description: ""
 <td style="width: 20%;"><img src="/images/in.jpg"></td>
 <td style="width: 80%;"><p><strong>Mid-Year Examinations 2021 (Sec 4 &amp; 5 only)<br /></strong>Dear S4/5 students, please refer here for the mid-year examination timetable. Please note that lessons are as per normal on 12 and 14 May.</p>
 <p style="text-align: right;"><a href="/information/examination-schedule">Read More...</a></p></td>
+	
 </tr>
 <tr>
 <td style="width: 20%;"><img src="/images/news.jpg"></td>
 <td style="width: 80%;"><p><strong>Timetable (Term 2 2021)<br /></strong>Dear students, there will a change to the timetable for Term 2. Please refer here for the latest class timetables.</p>
 <p style="text-align: right;"><a href="/files/Class%20Timetable%20T2%202021.pdf">Read More...</a></p></td>
 </tr>
+	
 </tbody>
 </table>
