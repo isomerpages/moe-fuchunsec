@@ -1,6 +1,6 @@
 ---
 title: Secondary 4
-permalink: /information/sexuality-education/secondary-4
+permalink: /information/sexuality-education/secondary-4/
 description: ""
 ---
 <table>
@@ -14,7 +14,7 @@ description: ""
 <td style="text-align: center;" colspan="3"><strong>Respectful Relationships &amp; Safety</strong></td>
 </tr>
 <tr>
-<td><strong>Semester 1<br />Term 2 Week 04<br />11 - 15 Apr</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 04<br />10 - 14 Apr</strong></td>
 <td style="text-align: center;"><strong>1<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -25,7 +25,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 1<br />Term 2 Week 05<br />18 - 22 Apr</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 04<br />17 - 21 Apr</strong></td>
 <td style="text-align: center;"><strong>2<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -37,7 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 1<br />Term 2 Week 06<br />25 - 29 Apr</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 06<br />24 - 28 Apr</strong></td>
 <td style="text-align: center;"><strong>3<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -48,7 +48,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 2<br />Term 3 Week 01<br />27 Jun - 01 Jul</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 07<br />2 - 5 May</strong></td>
 <td style="text-align: center;"><strong>4<br />(60 Mins)</strong></td>
 <td>
 <ul>
