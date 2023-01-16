@@ -36,3 +36,4 @@ description: ""
 <li>NYAA Silver Award - 6 Senior Cadet Leaders</li>
 <li>NYAA Bronze Award - 14 Cadet Leaders</li>
 </ul>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yRawll91TKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
