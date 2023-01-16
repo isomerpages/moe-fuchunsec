@@ -1,6 +1,6 @@
 ---
 title: Secondary 3
-permalink: /information/sexuality-education/secondary-3
+permalink: /information/sexuality-education/secondary-3/
 description: ""
 ---
 <table>
@@ -14,7 +14,7 @@ description: ""
 <td style="text-align: center;" colspan="3">&nbsp;<strong>Respectful Relationships &amp; Safety</strong></td>
 </tr>
 <tr>
-<td><strong>Semester 2<br />Term 3 Week 03<br />11 - 15 Jul</strong></td>
+<td><strong>Semester 1<br />Term 1 Week 06<br />6 - 10 Feb</strong></td>
 <td style="text-align: center;"><strong>1A<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -25,7 +25,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 2<br />Term 3 Week 05<br />25 - 29 Jul</strong></td>
+<td><strong>Semester 1<br />Term 1 Week 08<br />20 - 24 Feb</strong></td>
 <td style="text-align: center;"><strong>1B<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -37,7 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 2<br />Term 3 Week 06<br />01 - 05 Aug</strong></td>
+<td><strong>Semester 1<br />Term 1 Week 06<br />6 - 10 Feb</strong></td>
 <td style="text-align: center;"><strong>2<br />(60 mins)</strong></td>
 <td>
 <ul>
