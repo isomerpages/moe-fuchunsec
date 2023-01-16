@@ -1,6 +1,6 @@
 ---
 title: Secondary 5
-permalink: /information/sexuality-education/secondary-5
+permalink: /information/sexuality-education/secondary-5/
 description: ""
 ---
 <table>
@@ -14,7 +14,7 @@ description: ""
 <td style="text-align: center;" colspan="3"><strong>Respectful Relationships &amp; Safety</strong></td>
 </tr>
 <tr>
-<td><strong>Semester 2<br />Term 3 Week 01<br />27 Jun - 01 Jul</strong></td>
+<td><strong>Semester 2<br />Term 3 Week 01<br />26 - 30 Jun</strong></td>
 <td style="text-align: center;"><strong>1<br />(60 Mins)</strong></td>
 <td>
 <ul>
@@ -26,4 +26,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, &ldquo;Levelling the Ground&rdquo; from the unit, &ldquo;Respectful Relationship and Safety&rdquo;.</em></p>
