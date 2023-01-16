@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sexuality Education.md
-      - Secondary 2.md
       - Secondary 3.md
       - Secondary 4.md
       - Secondary 5.md
