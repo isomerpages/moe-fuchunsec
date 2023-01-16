@@ -24,7 +24,7 @@ third_nav_title: For Parents
 <p>7.&nbsp;Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 <p>8.&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 <p>9.&nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At&nbsp;Fuchun Secondary School,&nbsp;the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2022:</strong></p>
+<p><strong>At&nbsp;Fuchun Secondary School,&nbsp;the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong></p>
 <div>
 <table>
 <tbody>
@@ -43,7 +43,7 @@ third_nav_title: For Parents
 <li>Consequences and impact of STIs/HIV</li>
 </ul>
 </td>
-<td style="width: 113.906px; text-align: center;">Term 3 Week 8<br />15-19 Aug</td>
+<td style="width: 113.906px; text-align: center;">Semester 2 Term 2 Week 8<br />8-12 May</td>
 </tr>
 <tr>
 <td style="width: 166.266px; text-align: center;">Classroom-based Lesson</td>
@@ -52,7 +52,7 @@ third_nav_title: For Parents
 <li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
 </ul>
 </td>
-<td style="width: 113.906px; text-align: center;">Term 3 Week 9<br />22-26 Aug</td>
+<td style="width: 113.906px; text-align: center;">Semester 2 Term 2 Week 9<br />15-19 May</td>
 </tr>
 </tbody>
 </table>
