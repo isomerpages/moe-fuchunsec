@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /information/sexuality-education
+permalink: /information/sexuality-education/
 description: ""
 third_nav_title: For Parents
 ---
@@ -58,7 +58,7 @@ third_nav_title: For Parents
 </table>
 </div>
 <p><strong>Information for Parents<br /></strong>10.&nbsp;Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality&nbsp;education programmes by MOE-approved external providers.&nbsp;</p>
-<p>11.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be sent to parents via Parents&rsquo; Gateway and is also accessible&nbsp;<a href="https://form.gov.sg/61e11abb9c794b00126b0dd7" target="_blank" rel="noopener"><strong><u>here</u></strong></a>. The completed form is to be submitted by&nbsp;<strong>Friday, 18/02/2022</strong>.</p>
-<p>12.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens&nbsp;</em>programme (Sec 3 students only)</strong>&nbsp;need to complete an opt-out form. This form will be sent to parents via Parents&rsquo; Gateway and is also accessible&nbsp;<a href="https://form.gov.sg/61e1177ecb6ef4001360d300" target="_blank" rel="noopener"><strong><u>here</u></strong></a>. The completed form is to be submitted by&nbsp;<strong>Friday, 18/02/2022</strong>.</p>
+<p>11.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be sent to parents via Parents&rsquo; Gateway and is also accessible&nbsp;<a href="https://form.gov.sg/63c02be48de09700128471bd" target="_blank" rel="noopener"><strong><u>here</u></strong></a>. The completed form is to be submitted by&nbsp;<strong>Friday, 27/01/2023 </strong>.</p>
+<p>12.&nbsp;Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens&nbsp;</em>programme (Sec 3 students only)</strong>&nbsp;need to complete an opt-out form. This form will be sent to parents via Parents&rsquo; Gateway and is also accessible&nbsp;<a href="https://form.gov.sg/63c02da0dd51570011aa4405" target="_blank" rel="noopener"><strong><u>here</u></strong></a>. The completed form is to be submitted by&nbsp;<strong>Friday, 27/01/2023</strong>.</p>
 <p>13.&nbsp;Parents can contact the school at 63670180 or&nbsp;<a href="mailto:fcss@moe.edu.sg" target=""><strong><u>fcss@moe.edu.sg</u></strong></a>&nbsp;for discussion to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>14.&nbsp;Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
