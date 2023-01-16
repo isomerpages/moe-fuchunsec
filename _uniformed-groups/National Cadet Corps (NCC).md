@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps (NCC)
-permalink: /experience/co-curricular-activities/uniformed-groups/ncc
+permalink: /experience/co-curricular-activities/uniformed-groups/ncc/
 description: ""
 ---
 <p><strong><u>Vision<br /></u></strong>The Singapore National Cadet Corps (NCC) is a world-class organization that nurtures responsible, resilient and resourceful cadets to become successful citizens.</p>
@@ -28,6 +28,7 @@ description: ""
 </table>
 <p><strong>Events &amp; Achievements</strong></p>
 <ul>
+<li>NCC Unit Recognition 2021 (Distinction)</li>
 <li>NCC Unit Recognition 2019 (Distinction)</li>
 <li>NCC Unit Recognition 2018 (Distinction)</li>
 <li>NCC Best Unit Competition 2017 - Gold</li>
