@@ -37,7 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 1<br />Term 1 Week 06<br />6 - 10 Feb</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 07<br />20 - 24 Feb</strong></td>
 <td style="text-align: center;"><strong>2<br />(60 mins)</strong></td>
 <td>
 <ul>
