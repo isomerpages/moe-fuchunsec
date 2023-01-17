@@ -43,7 +43,7 @@ third_nav_title: For Parents
 <li>Consequences and impact of STIs/HIV</li>
 </ul>
 </td>
-<td style="width: 113.906px; text-align: center;">Semester 2 Term 2 Week 8<br />8-12 May</td>
+<td style="width: 113.906px; text-align: center;">Semester 1 Term 2 Week 8<br />8-12 May</td>
 </tr>
 <tr>
 <td style="width: 166.266px; text-align: center;">Classroom-based Lesson</td>
@@ -52,7 +52,7 @@ third_nav_title: For Parents
 <li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
 </ul>
 </td>
-<td style="width: 113.906px; text-align: center;">Semester 2 Term 2 Week 9<br />15-19 May</td>
+<td style="width: 113.906px; text-align: center;">Semester 1 Term 2 Week 9<br />15-19 May</td>
 </tr>
 </tbody>
 </table>
