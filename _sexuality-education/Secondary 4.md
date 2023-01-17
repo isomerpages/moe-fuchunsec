@@ -25,7 +25,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td><strong>Semester 1<br />Term 2 Week 04<br />17 - 21 Apr</strong></td>
+<td><strong>Semester 1<br />Term 2 Week 05<br />17 - 21 Apr</strong></td>
 <td style="text-align: center;"><strong>2<br />(60 Mins)</strong></td>
 <td>
 <ul>
