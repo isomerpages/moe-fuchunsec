@@ -34,7 +34,7 @@ description: ""
 <td style="text-align: left;"><strong>HOD Mathematics</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;"><a href="mailto:puran_singh_guthri@moe.edu.sg" target=""><strong>Mr&nbsp;</strong><strong>Puran Singh Guthri</strong></a></td>
+<td style="text-align: right;"><a href="mailto:puran_singh_guthri@moe.edu.sg" target=""><strong>Mr Puran Singh Guthri</strong></a></td>
 <td style="text-align: left;"><strong>HOD Science</strong></td>
 </tr>
 <tr>
@@ -54,11 +54,11 @@ description: ""
 <td style="text-align: left;"><strong>HOD Discipline</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;">&nbsp;<a href="mailto:hafiza_yahya@moe.edu.sg" target=""><strong>Ms Hafiza Yahya</strong></a></td>
+<td style="text-align: right;"><a href="mailto:hafiza_yahya@moe.edu.sg" target=""><strong>Ms Hafiza Yahya</strong></a></td>
 <td style="text-align: left;"><strong>HOD NT</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;">&nbsp;<a href="mailto:chua_teck_kwan_nicholas@moe.edu.sg" target=""><strong>Mr Nicholas Chua</strong></a></td>
+<td style="text-align: right;"><a href="mailto:chua_teck_kwan_nicholas@moe.edu.sg" target=""><strong>Mr Nicholas Chua</strong></a></td>
 <td style="text-align: left;"><strong>HOD ICT</strong></td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ description: ""
 <td style="text-align: left;"><strong>HOD CCE</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;">&nbsp;<a href="mailto:teh_yi_wen@schools.gov.sg" target=""><strong>Mrs Koh-Teh Yi Wen</strong></a></td>
+<td style="text-align: right;"><a href="mailto:teh_yi_wen@schools.gov.sg" target=""><strong>Mrs Koh-Teh Yi Wen</strong></a></td>
 <td style="text-align: left;"><strong>Year Head Upper Sec</strong></td>
 </tr>
 <tr>
@@ -82,11 +82,11 @@ description: ""
 <td style="text-align: left;"><strong>Subject Head Mathematics</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;"><strong><a href="mailto:wong_yih_check@moe.edu.sg" target="">Mr&nbsp;Wong Yih Check</a></strong></td>
+<td style="text-align: right;"><a href="mailto:wong_yih_check@moe.edu.sg" target=""><strong>Mr Wong Yih Check</a></strong></td>
 <td style="text-align: left;"><strong>Subject Head Chemistry</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;">&nbsp;<a href="mailto:muhammad_faizal_osman@moe.edu.sg" target=""><strong>Mr Muhd Faizal Osman</strong></a></td>
+<td style="text-align: right;"><a href="mailto:muhammad_faizal_osman@moe.edu.sg" target=""><strong>Mr Muhd Faizal Osman</strong></a></td>
 <td style="text-align: left;"><strong>Subject Head Student Well-Being</strong></td>
 </tr>
 <tr>
