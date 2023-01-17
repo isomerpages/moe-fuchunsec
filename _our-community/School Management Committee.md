@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /our-community/school-management-committee
+permalink: /our-community/school-management-committee/
 description: ""
 ---
 <table>
@@ -22,7 +22,7 @@ description: ""
 <td style="text-align: left;"><strong>Vice-Principal</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;"><strong>Me Ershah Khalil</strong></td>
+<td style="text-align: right;"><strong>Mr Ershah Khalil</strong></td>
 <td style="text-align: left;"><strong>Admin Executive</strong></td>
 </tr>
 <tr>
