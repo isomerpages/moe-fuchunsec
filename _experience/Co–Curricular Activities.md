@@ -36,7 +36,6 @@ description: ""
 <ul>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/boys-brigade" target="">Boys' Brigade</a></li>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/girl-guides" target="">Girl Guides</a></li>
-<li><a href="/experience/co-curricular-activities/uniformed-groups/npcc" target="">NPCC</a></li>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/ncc" target="">NCC</a></li>
 </ul>
 </td>
