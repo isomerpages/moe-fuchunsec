@@ -1,9 +1,8 @@
 ---
 title: Co–Curricular Activities
-permalink: /experience/co-curricular-activities
+permalink: /experience/co-curricular-activities/
 description: ""
 ---
-
 <img src="/images/cca.png"><br>
 <table>
 <tbody>
@@ -29,7 +28,7 @@ description: ""
 <ul>
 <li><a href="/experience/co-curricular-activities/sports-n-games/basketball-boys" target="">Basketball</a></li>
 <li><a href="/experience/co-curricular-activities/sports-n-games/netball" target="">Netball</a></li>
-<li><a href="/experience/co-curricular-activities/sports-n-games/sepak-takraw" target="">Sepak Takraw</a></li>
+
 <li><a href="/experience/co-curricular-activities/sports-n-games/football-boys" target="">Football</a></li>
 </ul>
 </td>
@@ -37,7 +36,6 @@ description: ""
 <ul>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/boys-brigade" target="">Boys' Brigade</a></li>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/girl-guides" target="">Girl Guides</a></li>
-<li><a href="/experience/co-curricular-activities/uniformed-groups/npcc" target="">NPCC</a></li>
 <li><a href="/experience/co-curricular-activities/uniformed-groups/ncc" target="">NCC</a></li>
 </ul>
 </td>
