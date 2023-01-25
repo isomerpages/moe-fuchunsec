@@ -1,6 +1,6 @@
 ---
 title: Information & Communication Technology
-permalink: /our-community/departments/information-n-communication-technology
+permalink: /our-community/departments/information-n-communication-technology/
 description: ""
 third_nav_title: Departments
 ---
@@ -38,7 +38,6 @@ third_nav_title: Departments
 </ul>
 <p><strong>ICT Support Staff:<br /></strong></p>
 <ul>
-<li>ICT Associate - Mr Ershah Khalil</li>
 <li>ICT Associate - Mr Aliff Sharil Zakariah</li>
 <li>Desktop Engineer - Mr Faruq Noorfauzi</li>
 <li>Desktop Engineer - Mr Nur Hakim Latiff</li>
