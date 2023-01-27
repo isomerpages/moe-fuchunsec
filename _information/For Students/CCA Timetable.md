@@ -1,8 +1,7 @@
 ---
 title: CCA Timetable
-permalink: /information/cca-timetable
+permalink: /information/cca-timetable/
 description: ""
 third_nav_title: For Students
 ---
-
-<a href="/files/2022%20CCA%20Deployment%20220126.pdf">External Link</a>
+<a href=[](/files/CCA_Deployment_T1_For_Website.pdf)>External Link</a>
