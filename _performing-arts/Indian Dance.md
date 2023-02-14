@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /experience/co-curricular-activities/performing-arts/indian-dance
+permalink: /experience/co-curricular-activities/performing-arts/indian-dance/
 description: ""
 ---
 <p><strong><u>About Us<br /></u></strong>Fuchun&rsquo;s Nakshatra focuses on inculcating values education through Indian Dance. We teach our dancers values like responsibility, camaraderie and perseverance especially when faced with challenging roles and movements that are out of their comfort zone.</p>
@@ -16,13 +16,12 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Mondays: 1530 - 1730</div>
-<div>Fridays: 1245 - 1445</div>
+<div>Fridays: 1300 - 1500</div>
 <div><em>Performing Arts Studio 2 (#A04-01)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mdm Amutha R Amirthalingam</div>
 <div>Mdm Roszilah Abdul Rahim</div>
-<div>Ms Grace Kang</div>
 </td>
 </tr>
 </tbody>
