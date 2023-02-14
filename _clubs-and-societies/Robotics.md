@@ -25,6 +25,7 @@ description: ""
 </td>
 <td style="text-align: center;">
 <div>Mr Richard Au</div>
+<div>Mr Thomas Chen</div>
 <div>Mr Zhang Ming</div>
 </td>
 </tr>
