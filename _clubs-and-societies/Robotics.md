@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Fridays: 1300 - 1730</div>
+<div>Fridays: 1300 - 1530</div>
 <div><em>DNT Workshop 1</em></div>
 </td>
 <td style="text-align: center;">
