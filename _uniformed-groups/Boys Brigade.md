@@ -1,6 +1,6 @@
 ---
 title: Boys Brigade
-permalink: /experience/co-curricular-activities/uniformed-groups/boys-brigade
+permalink: /experience/co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
 ---
 <img src="/images/boys1.jpeg">
@@ -18,7 +18,7 @@ description: ""
 <td style="text-align: center;">
 <div>Mrs Chan Choon Ying</div>
 <div>Ms Annabel Tay</div>
-<div>Mr Johni&nbsp;Masli</div>
+<div>Mr Johni Masli</div>
 </td>
 </tr>
 </tbody>
