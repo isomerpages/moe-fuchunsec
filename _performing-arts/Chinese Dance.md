@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Mondays: 1530 - 1730</div>
-<div>Fridays: 1245 - 1445</div>
+<div>Fridays: 1300 - 1500</div>
 <div><em>Performing Arts Studio 1 (#A04-04)</em></div>
 </td>
 <td style="text-align: center;">
