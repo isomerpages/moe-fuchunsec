@@ -1,6 +1,6 @@
 ---
 title: Green Club
-permalink: /experience/co-curricular-activities/clubs-n-societies/green-club
+permalink: /experience/co-curricular-activities/clubs-n-societies/green-club/
 description: ""
 ---
 <p><strong><u>Vision<br /></u></strong>An Environmentally Friendly Club that Advocates Love for Nature</p>
@@ -21,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">Tuesdays: 1530 - 1730<br /><em>SR 01 (#D01-02)</em></td>
-<td style="text-align: center;">Ms Leow Lea Ching<br />Mr Philemon Foo</td>
+<td style="text-align: center;">Miss Annabel Lee<br />Mr Philemon Foo</td>
 </tr>
 </tbody>
 </table>
