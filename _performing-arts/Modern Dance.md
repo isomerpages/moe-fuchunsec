@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /experience/co-curricular-activities/performing-arts/modern-dance
+permalink: /experience/co-curricular-activities/performing-arts/modern-dance/
 description: ""
 ---
 <img src="/images/dance.jpeg">
@@ -14,11 +14,10 @@ description: ""
 <td style="text-align: center;">
 <div>Tuesdays &amp; Thursdays:&nbsp;</div>
 <div>15:30 - 17:30</div>
-<div><em>Performing Arts Studio 1 (#A04-04)</em></div>
+<div><em>Performing Arts Studio 3 (#B03-03)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mdm Chew Siew Keng</div>
-<div>Ms Cheng Yee Ting</div>
 <div>Ms Tan Ying Rui</div>
 </td>
 </tr>
