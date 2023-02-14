@@ -1,6 +1,6 @@
 ---
 title: Robotics
-permalink: /experience/co-curricular-activities/clubs-n-societies/robotics
+permalink: /experience/co-curricular-activities/clubs-n-societies/robotics/
 description: ""
 ---
 <p><strong><u>Motto<br /></u></strong><em>"Heroes Aren't Born, They Are Built"</em></p>
@@ -20,12 +20,12 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Fridays: 1300 - 1730</div>
+<div>Fridays: 1300 - 1530</div>
 <div><em>DNT Workshop 1</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mr Andrew Chan</div>
 <div>Mr Richard Au</div>
+<div>Mr Thomas Chen</div>
 <div>Mr Zhang Ming</div>
 </td>
 </tr>

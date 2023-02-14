@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology
-permalink: /experience/co-curricular-activities/clubs-n-societies/infocomm-technology
+permalink: /experience/co-curricular-activities/clubs-n-societies/infocomm-technology/
 description: ""
 ---
 <img src="/images/info1.jpeg">
@@ -13,7 +13,7 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Thursdays: 1530 - 1730</div>
-<div><em>SR 07 (#E02-01)</em></div>
+<div><em>Computer Lab 3 (#F03-01)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mr Jonathan Chew</div>

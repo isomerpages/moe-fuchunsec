@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /experience/co-curricular-activities/performing-arts/chinese-dance
+permalink: /experience/co-curricular-activities/performing-arts/chinese-dance/
 description: ""
 ---
 <p><strong><u>Introduction<br /></u></strong>Chinese dance in Fuchun Secondary School started back in 2008. Our current instructor is Ms. Dang Qi who has a vast and rich experience in both the performance and coaching of Chinese dance. Currently we have over 20 members in the club who chose to join Chinese Dance out of their appreciation for the Chinese culture and the passion to nurture their potential in Chinese dance as well as other dance genres.</p>
@@ -17,12 +17,13 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Mondays: 1530 - 1730</div>
-<div>Fridays: 1245 - 1445</div>
+<div>Fridays: 1300 - 1500</div>
 <div><em>Performing Arts Studio 1 (#A04-04)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mdm Xu Ping</div>
-<div>Mdm Ng Hsuen Huey</div>
+<div>Ms Yee Ting</div>
+<div>Mdm Halimah</div>
 </td>
 </tr>
 </tbody>

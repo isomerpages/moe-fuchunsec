@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /experience/co-curricular-activities/performing-arts/malay-dance
+permalink: /experience/co-curricular-activities/performing-arts/malay-dance/
 description: ""
 ---
 <img src="/images/md.jpeg">
@@ -12,8 +12,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mondays &amp; Thursdays:</div>
-<div>1530 - 1730</div>
+<div>Mondays &amp; Fridays:</div>
+<div>1530 - 1730 & 1430 - 1700</div>
 <div><em>Performing Arts Studio 3 (#B03-03)</em></div>
 </td>
 <td style="text-align: center;">

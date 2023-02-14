@@ -1,6 +1,6 @@
 ---
 title: Football (Boys)
-permalink: /experience/co-curricular-activities/sports-n-games/football-boys
+permalink: /experience/co-curricular-activities/sports-n-games/football-boys/
 description: ""
 ---
 <img src="/images/fb1.jpeg">
@@ -20,7 +20,6 @@ description: ""
 <div>Mr Muhd Faizal Osman</div>
 <div>
 <div>Mr Ghanaprakasam Subramaniam&nbsp;</div>
-<div>Mr Muhd Yusoff Abdul Gulam</div>
 <div>Mr Suhaini Sarikon</div>
 </div>
 </td>

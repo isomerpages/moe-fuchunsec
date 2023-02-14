@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /experience/co-curricular-activities/performing-arts/concert-band
+permalink: /experience/co-curricular-activities/performing-arts/concert-band/
 description: ""
 ---
 <img src="/images/band1.jpg">
@@ -17,9 +17,9 @@ description: ""
 <div><em>Band Room (Basement)</em></div>
 </td>
 <td>
-<div>Mrs Anita Long</div>
 <div>Mr Kenneth Yee</div>
-<div>Mr Thomas Chen</div>
+<div>Ms Grace Kang</div>
+<div>Mr David Sagayaraj</div>
 </td>
 </tr>
 </tbody>

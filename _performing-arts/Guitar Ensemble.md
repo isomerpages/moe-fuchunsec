@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /experience/co-curricular-activities/performing-arts/guitar-ensemble
+permalink: /experience/co-curricular-activities/performing-arts/guitar-ensemble/
 description: ""
 ---
 <p><strong><u>About Us<br /></u></strong>At our guitar ensemble, we believe that every student deserves and has the ability to pick up skills which will be relevant and useful in their future.</p>
@@ -21,7 +21,6 @@ description: ""
 <td style="text-align: center;">
 <div>Mr Rino Ratno</div>
 <div>Mr Andrew Joseph</div>
-<div>Mr Kelvin Chen</div>
 </td>
 </tr>
 </tbody>

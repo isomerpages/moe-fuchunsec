@@ -1,6 +1,6 @@
 ---
 title: Basketball (Boys)
-permalink: /experience/co-curricular-activities/sports-n-games/basketball-boys
+permalink: /experience/co-curricular-activities/sports-n-games/basketball-boys/
 description: ""
 ---
 <img src="/images/bb1.jpeg">
@@ -19,7 +19,6 @@ description: ""
 <td style="text-align: center;">
 <div>Mr Ng Yu Yi</div>
 <div>Mr Adrian Tan</div>
-<div>Mr Ong Kong Sing</div>
 </td>
 </tr>
 </tbody>

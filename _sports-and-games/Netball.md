@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /experience/co-curricular-activities/sports-n-games/netball
+permalink: /experience/co-curricular-activities/sports-n-games/netball/
 description: ""
 ---
 <p><strong><u>Motto<br /></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p>
@@ -21,6 +21,7 @@ description: ""
 <td style="text-align: center;">
 <div>Mr Neville Teo</div>
 <div>Ms Madeline Koh</div>
+<div> Mr Alvin Chan </div>
 </td>
 </tr>
 </tbody>

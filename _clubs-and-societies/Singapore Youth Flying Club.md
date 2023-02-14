@@ -1,6 +1,6 @@
 ---
 title: Singapore Youth Flying Club
-permalink: /experience/co-curricular-activities/clubs-n-societies/singapore-youth-flying-club
+permalink: /experience/co-curricular-activities/clubs-n-societies/singapore-youth-flying-club/
 description: ""
 ---
 <p><strong><u>Vision</u><u><br /></u></strong>Encourage its Members to Participate in the Private Pilot's License (PPL) &amp; Wings.</p>
@@ -21,7 +21,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Fridays: 1500 - 1800</div>
+<div>Fridays: 1330 - 1630</div>
 <div><em>D&amp;T Technical Block</em></div>
 </td>
 <td style="text-align: center;">

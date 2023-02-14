@@ -1,6 +1,6 @@
 ---
 title: Festive Drums & Lion Dance Troupe
-permalink: /experience/co-curricular-activities/performing-arts/festive-drums-n-lion-dance-troupe
+permalink: /experience/co-curricular-activities/performing-arts/festive-drums-n-lion-dance-troupe/
 description: ""
 ---
 <img src="/images/lion1.jpg">
@@ -13,13 +13,12 @@ description: ""
 <tr>
 <td style="text-align: center;">
 <div>Mondays: 1530 - 1730</div>
-<div>Fridays: 1245 - 1445</div>
+<div>Fridays: 1300 - 1500</div>
 <div><em>School Hall / Courtyard (Blk F)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mr James Li</div>
 <div>Mr Jackson Tan</div>
-<div>Mr David Sagayaraj</div>
 </td>
 </tr>
 </tbody>
