@@ -8,14 +8,22 @@ notification: ""
 sections:
   - hero:
       background: /images/maker.gif
-  - infobar:
-      title: News & Announcements
-      description: "To navigate to the link above please "
+      key_highlights:
+        - title: Useful Links
+          description: ""
+          url: https://www.fuchunsec.moe.edu.sg/information/useful-links
+        - title: Announcements
+          description: ""
+          url: https://www.fuchunsec.moe.edu.sg/others/news-n-announcements/
+        - title: Contact Us
+          description: ""
+          url: https://www.fuchunsec.moe.edu.sg/contact-us/
+  - infopic:
+      title: School Calender
+      subtitle: FCS sCHOOL PLANNER
+      description: To navigate to the link please
       button: Click here
-      url: /others/news-n-announcements
-  - infobar:
-      title: School Event Calendar
-      description: To navigate to the link above please
-      button: Click Here
       url: /information/school-calendar
+      image: /images/calendar-icon-png-4125.png
+      alt: Image alt text
 ---
