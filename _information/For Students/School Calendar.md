@@ -1,7 +1,7 @@
 ---
 title: School Calendar
-permalink: /information/school-calendar
+permalink: /information/school-calendar/
 description: ""
 third_nav_title: For Students
 ---
-<p><iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;showTz=0&amp;src=Y18yY2Y1Mzg3cmhpZ3BpZGtxY3UwM2VzNWM2c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23009688&amp;color=%230B8043" width="700" height="600" frameborder="0" scrolling="no" data-mce-fragment="1"></iframe></p>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_7b39c46b18da76cc27cffccba4e2c99adfaac26bae5b4d837e26567a9b6a6265%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
