@@ -19,8 +19,8 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
-      title: School Calender
-      subtitle: FCS sCHOOL PLANNER
+      title: School Calendar
+      subtitle: FCS SCHOOL PLANNER
       description: To navigate to the link please
       button: Click here
       url: /information/school-calendar
