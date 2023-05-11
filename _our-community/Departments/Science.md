@@ -1,10 +1,10 @@
 ---
 title: Science
-permalink: /our-community/departments/science
+permalink: /our-community/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzKR0f-gkq7HS8ZeH07dfnII-NCaqZt0hQ7WnzpRVpJ-A5hMcSjc9HsVGZIocGBMawNtjWW9_MgLdS/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+![](/images/Dept%202023/science%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -49,12 +49,8 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Philemon Foo</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mdm Ng Hsuen Huey</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mr Kelvin Chen</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
