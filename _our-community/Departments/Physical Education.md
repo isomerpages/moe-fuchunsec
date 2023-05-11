@@ -1,22 +1,19 @@
 ---
 title: Physical Education
-permalink: /our-community/departments/physical-education
+permalink: /our-community/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---
-<p><strong><u>Vision<br /></u></strong>A Community of Healthy and Physically Fit Learners.</p>
-<p><strong><u>Mission<br /></u></strong>To develop students who are physically fit and healthy so as to support their learning and growth.</p>
+<p><strong><u>Vision<br></u></strong>A Community of Healthy and Physically Fit Learners.</p>
+<p><strong><u>Mission<br></u></strong>To develop students who are physically fit and healthy so as to support their learning and growth.</p>
 <p><strong><u>Personnel</u></strong></p>
-<img src="/images/pe1.jpg">
+<img src="/images/Dept%202023/ict,%20ebs,%20cpa%20and%20physical%20education%20department%201.jpg">
 <p><strong>HOD PE &amp; CCA: </strong>Mr Manoharan Ramasamy</p>
 <p><strong>PE Teachers:&nbsp;</strong></p>
 <ul>
 <li>Mr Nicholas Chua (HOD ICT)</li>
-<li>Mr Muhd Yusoff Abdul Gulam (AYH Sec 4/5)</li>
 <li>Mr Sonny Liang</li>
 <li>Mr&nbsp;Neville Teo</li>
-<li>Mr Ong Kong Sing</li>
-<li>Mr Quek Hian Hua</li>
 </ul>
 <p><strong><u>Programmes for 2022</u></strong></p>
 <table>
@@ -167,3 +164,4 @@ third_nav_title: Departments
 </tr>
 </tbody>
 </table>
+</div>

@@ -1,10 +1,10 @@
 ---
 title: Girl Guides
-permalink: /experience/co-curricular-activities/uniformed-groups/girl-guides
+permalink: /experience/co-curricular-activities/uniformed-groups/girl-guides/
 description: ""
 ---
 <p>The Girl Guides is part of an International movement which strives to develop our girls to their fullest potential as responsible citizens. The weekly training sessions are based on a Five-Point program which encompasses Personal and Social Development, Home, Outdoor, Community and International. Apart from the Five-Point program, the girls engage in proficiency badge work as well as participate actively in HQ-based activities to develop their leadership skills.</p>
-<img src="/images/gg1.jpeg">
+<img src="/images/CCA%202023/girl%20guides%201.jpg">
 <table>
 <tbody>
 <tr>

@@ -3,7 +3,7 @@ title: Boys Brigade
 permalink: /experience/co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
 ---
-<img src="/images/boys1.jpeg">
+<img src="/images/CCA%202023/boys'%20brigade%202.jpg">
 <table>
 <tbody>
 <tr>

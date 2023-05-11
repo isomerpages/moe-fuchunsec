@@ -3,7 +3,7 @@ title: Festive Drums & Lion Dance Troupe
 permalink: /experience/co-curricular-activities/performing-arts/festive-drums-n-lion-dance-troupe/
 description: ""
 ---
-<img src="/images/lion1.jpg">
+<img src="/images/CCA%202023/festive%20drums%20and%20lion%20dance%20troupe%202.jpg">
 <table>
 <tbody>
 <tr>
@@ -18,12 +18,11 @@ description: ""
 </td>
 <td style="text-align: center;">
 <div>Mr James Li</div>
-<div>Mr Jackson Tan</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>About Us<br /></u></strong>Festive drums (节令鼓) and Lion Dance (舞狮) performs outside school regularly during Chinese New Year and major occasions in the community. Every year, the troupe participates at inter-school level Lion Dance competitions, win awards and recognition. Through exposure to performances and competitions, students learn and work together on sound values, foster camaraderie and build strength of character. The CCA opens to all races and gender.</p>
+<p><strong><u>About Us<br></u></strong>Festive drums (节令鼓) and Lion Dance (舞狮) performs outside school regularly during Chinese New Year and major occasions in the community. Every year, the troupe participates at inter-school level Lion Dance competitions, win awards and recognition. Through exposure to performances and competitions, students learn and work together on sound values, foster camaraderie and build strength of character. The CCA opens to all races and gender.</p>
 <p><strong><u>OUR ACHIEVEMENTS</u></strong></p>
 <ul>
 <li>17th NTU Lion Dance Competition (National Level) - 1<sup>st</sup>&nbsp;&amp; 2<sup>nd</sup>&nbsp;Placing</li>

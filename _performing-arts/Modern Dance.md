@@ -3,7 +3,7 @@ title: Modern Dance
 permalink: /experience/co-curricular-activities/performing-arts/modern-dance/
 description: ""
 ---
-<img src="/images/dance.jpeg">
+<img src="images/CCA%202023/modern%20dance%201.jpg">
 <table>
 <tbody>
 <tr>
@@ -23,7 +23,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><u>Introduction<br /></u></strong>Our dancers are taught a variety of dance genres which are performed at various platforms</p>
+<p><strong><u>Introduction<br></u></strong>Our dancers are taught a variety of dance genres which are performed at various platforms</p>
 <p><strong><u>OUR ACHIEVEMENTS</u></strong></p>
 <ul>
 <li>Singapore Youth Festival (SYF) Arts Presentation 2019 - Certificate of Accomplishment</li>

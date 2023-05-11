@@ -3,7 +3,7 @@ title: Football (Boys)
 permalink: /experience/co-curricular-activities/sports-n-games/football-boys/
 description: ""
 ---
-<img src="/images/fb1.jpeg">
+<img src="/images/CCA%202023/football%202.jpg">
 <table>
 <tbody>
 <tr>
@@ -26,8 +26,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><u>Motto<br /></u></strong><em>Together Everyone Achieves More</em></p>
-<p><strong><u>Mission<br /></u></strong>To promote:</p>
+<p><strong><u>Motto<br></u></strong><em>Together Everyone Achieves More</em></p>
+<p><strong><u>Mission<br></u></strong>To promote:</p>
 <ul>
 <li>Camaraderie among the football players</li>
 <li>Adaptability during matches to face different opponents and challenges</li>
@@ -38,4 +38,4 @@ description: ""
 <ul>
 <li>North Zone 'B' Division Inter-School Tournament 2019 - Quarter-Finals</li>
 </ul>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRD_0C7Kk-2QmP4xzAte_BztEvxCb00WihIxWJtwCwha_6tJn-LaqvAlgibGM4bF0lMbGWGQJDRYaED/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRD_0C7Kk-2QmP4xzAte_BztEvxCb00WihIxWJtwCwha_6tJn-LaqvAlgibGM4bF0lMbGWGQJDRYaED/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

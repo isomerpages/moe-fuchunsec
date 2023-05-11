@@ -1,10 +1,10 @@
 ---
 title: Humanities
-permalink: /our-community/departments/humanities
+permalink: /our-community/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-<img src="/images/human.jpg">
+![](/images/Dept%202023/humanities,%20english%20language%20and%20literature%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -33,10 +33,7 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Muhd Faizal Osman</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Assistant Year Head Upper Sec</strong></td>
-<td style="text-align: center;"><strong>Mr Muhd Yusoff Abdul Gulam</strong></td>
-</tr>
-<tr>
+</tr><tr>
 <td style="text-align: center;"><strong>Assistant Year Head Lower Sec</strong></td>
 <td style="text-align: center;"><strong>Mr Thomas Chen</strong></td>
 </tr>
@@ -49,16 +46,9 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr James Li</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Ms Josephine Mary Saminathan</strong></td>
-</tr>
-<tr>
+</tr><tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
 <td style="text-align: center;"><strong>Mr Leong Chao Shing</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mrs Karen Loy-Yii</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
@@ -80,7 +70,7 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Sec 2E/NA</strong></td>
 </tr>
 <tr>
-<td><strong>Humanities Week Assembly Talk<br />Sec 4E/4NA/5NA: ISD Talk on Transnational Terrorism<br />Sec 3E/NA: Food Sustainability &amp; Food Resources<br />Sec 2E/NA: Self-sufficient Towns - Inclusive Housing &amp; Accessible Transport</strong></td>
+<td><strong>Humanities Week Assembly Talk<br>Sec 4E/4NA/5NA: ISD Talk on Transnational Terrorism<br>Sec 3E/NA: Food Sustainability &amp; Food Resources<br>Sec 2E/NA: Self-sufficient Towns - Inclusive Housing &amp; Accessible Transport</strong></td>
 <td style="text-align: center;"><strong>16/18 Feb</strong></td>
 <td style="text-align: center;"><strong>Selected Students</strong></td>
 </tr>

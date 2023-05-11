@@ -1,10 +1,10 @@
 ---
 title: English & Literature
-permalink: /our-community/departments/english-n-literature
+permalink: /our-community/departments/english-n-literature/
 description: ""
 third_nav_title: Departments
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTup_66hTmfllI1g7rYU5DwqFcUvUiXL-q-0AEmeTbJSLPHpUHwNug3bWfAJrdaLcBzPwSjuJzB2_2E/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+![](/images/Dept%202023/humanities,%20english%20language%20and%20literature%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -29,8 +29,6 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Ghanaprakasam Subramaniam</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Year Head Upper Sec</strong></td>
-<td style="text-align: center;"><strong>Mrs Desi Koh</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Subject Head CCE</strong></td>
@@ -57,12 +55,8 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Ng Yu Yi</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mrs Anita Long</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mr Kelvin Chen</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
@@ -81,7 +75,7 @@ third_nav_title: Departments
 <tr>
 <td style="text-align: center;"><strong>Sec 2E/NA</strong></td>
 <td style="text-align: center;"><strong>Present and explain their choices</strong></td>
-<td style="text-align: center;"><strong>- Personal recounts<br />- Factual recounts<br />- Persuasive texts</strong></td>
+<td style="text-align: center;"><strong>- Personal recounts<br>- Factual recounts<br>- Persuasive texts</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Sec 3NA/4NA</strong></td>

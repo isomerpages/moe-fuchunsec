@@ -3,9 +3,9 @@ title: Netball
 permalink: /experience/co-curricular-activities/sports-n-games/netball/
 description: ""
 ---
-<p><strong><u>Motto<br /></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p>
-<p><strong><u>About Us<br /></u></strong>Being part of the Fuchun Netball Team translates to having a second family. The CCA focuses on developing committed, passionate and responsible athletes.&nbsp;mphasis is also placed on inculcating&nbsp;self-confidence and advocating healthy lifestyle choices within the Netball Family.</p>
-<img src="/images/nb1.jpeg">
+<p><strong><u>Motto<br></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p>
+<p><strong><u>About Us<br></u></strong>Being part of the Fuchun Netball Team translates to having a second family. The CCA focuses on developing committed, passionate and responsible athletes.&nbsp;mphasis is also placed on inculcating&nbsp;self-confidence and advocating healthy lifestyle choices within the Netball Family.</p>
+<img src="/images/CCA%202023/netball%201.jpg">
 <table>
 <tbody>
 <tr>
@@ -34,7 +34,7 @@ description: ""
 <li>North Zone Netball Competition 2017 ('C' Division) - Participation</li>
 <li>M1 Challenge 2017 ('B' Division) - Participation</li>
 <li>M1 Challenge 2017 ('C' Division) - Participation</li>
-<li>Student-organised Values-in-Action Project with Big Apple Child Care &amp; Development<br />Centre (15 March 2017)</li>
+<li>Student-organised Values-in-Action Project with Big Apple Child Care &amp; Development<br>Centre (15 March 2017)</li>
 </ul>
 <p><strong><u>Photos</u></strong></p>
 <img src="/images/nb2.png">

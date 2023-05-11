@@ -3,10 +3,10 @@ title: Indian Dance
 permalink: /experience/co-curricular-activities/performing-arts/indian-dance/
 description: ""
 ---
-<p><strong><u>About Us<br /></u></strong>Fuchun&rsquo;s Nakshatra focuses on inculcating values education through Indian Dance. We teach our dancers values like responsibility, camaraderie and perseverance especially when faced with challenging roles and movements that are out of their comfort zone.</p>
+<p><strong><u>About Us<br></u></strong>Fuchun’s Nakshatra focuses on inculcating values education through Indian Dance. We teach our dancers values like responsibility, camaraderie and perseverance especially when faced with challenging roles and movements that are out of their comfort zone.</p>
 <p>We focus on a variety of Indian Dance genres ranging from classical and semi-classical to traditional folk and contemporary. We provide many opportunities for them to gain exposure not just through school performances but externally as well. Our dancers have travelled overseas for cultural exchange programmes. In our 4/5-year programme, we believe in equipping our dancers with the skills necessary for them to learn progressively at their own pace and grow holistically as dancers. Bonding sessions every term help our students to learn through games and there are Values-in-Action programmes designed for them to explore community service through the arts.&nbsp;</p>
 <p>There is no prerequisite necessary to join Fuchun's Indian Dance Team, as we believe strongly in moulding our dancers from scratch. We also welcome all races to join our team as we have a multi-racial group learning Indian Dance. At the moment we have an all-girls team, based on the dance-styles we expose our students to.&nbsp;</p>
-<img src="/images/id1.jpg">
+<img src="/images/CCA%202023/indian%20dance%202.jpg">
 <table>
 <tbody>
 <tr>

@@ -1,32 +1,29 @@
 ---
 title: Student Development
-permalink: /our-community/departments/student-development
+permalink: /our-community/departments/student-development/
 description: ""
 third_nav_title: Departments
 ---
-<p><strong><u>Vision<br /></u></strong>A Learner, A Leader, An Explorer&nbsp;</p>
-<p><strong><u>Our Core Belief<br /></u></strong><em><strong>Fuchun&rsquo;s Student Development Team beliefs that</strong></em></p>
-<p style="text-align: center;"><strong><u>M</u></strong>otivation is key to a child&rsquo;s success</p>
+<p><strong><u>Vision<br></u></strong>A Learner, A Leader, An Explorer&nbsp;</p>
+<p><strong><u>Our Core Belief<br></u></strong><em><strong>Fuchun’s Student Development Team beliefs that</strong></em></p>
+<p style="text-align: center;"><strong><u>M</u></strong>otivation is key to a child’s success</p>
 <p style="text-align: center;"><strong><u>A</u></strong>chievement in all areas is possible by every child</p>
 <p style="text-align: center;">Be<strong><u>TT</u></strong>er learning takes place with clear expectations, order and discipline</p>
-<p style="text-align: center;"><strong><u>E</u></strong>ncouragement and ca<strong><u>R</u></strong>e builds a child&rsquo;s confidence</p>
+<p style="text-align: center;"><strong><u>E</u></strong>ncouragement and ca<strong><u>R</u></strong>e builds a child’s confidence</p>
 <p style="text-align: center;"><strong><u>S</u></strong>upport through sound structures, processes and programs is essential</p>
 <p style="text-align: center;"><strong><em>EVERY CHILD</em></strong><em>&nbsp;<strong>MATTERS</strong></em></p>
-<p><strong><u>Student Development Framework &amp; Student Outcomes<br /></u></strong>The Student Development Team looks into three core areas (Academic Excellence, Student Wellbeing and Character &amp; Leadership) for the holistic development of our students. With our core beliefs, we as a school work very closely with our stakeholders to instill in our students the ICARE values and provide the many opportunities and platforms for them to become</p>
-<p style="text-align: center;"><u></u><em><strong>Confident Learners &amp; Active Contributors<br /></strong></em><em><strong>Concerned Citizens and Keen Explorers</strong></em></p>
-<img style="width: 45%;" src="/images/sd1.png" />
+<p><strong><u>Student Development Framework &amp; Student Outcomes<br></u></strong>The Student Development Team looks into three core areas (Academic Excellence, Student Wellbeing and Character &amp; Leadership) for the holistic development of our students. With our core beliefs, we as a school work very closely with our stakeholders to instill in our students the ICARE values and provide the many opportunities and platforms for them to become</p>
+<p style="text-align: center;"><u></u><em><strong>Confident Learners &amp; Active Contributors<br></strong></em><em><strong>Concerned Citizens and Keen Explorers</strong></em></p>
+<img style="width: 45%;" src="/images/sd1.png">
 <p><strong><u>Personnel</u></strong></p>
-<img src="/images/sd2.jpg">
-<p><strong>SH CCE:&nbsp;</strong>Ms Shaleni Nedumaran<br /><strong>HOD Discipline:</strong>&nbsp;Mr Sivakumar Murugaya</p>
+<img src="/images/Dept%202023/student%20development%20team%201.jpg">
+<p><strong>SH CCE:&nbsp;</strong>Ms Shaleni Nedumaran<br><strong>HOD Discipline:</strong>&nbsp;Mr Sivakumar Murugaya</p>
 <p><u><strong>Student Development Team</strong></u></p>
 <ul>
-<li>Year Head Upper Sec - Ms Desilu Anne Nair</li>
 <li>Year Head Lower Sec - Mrs Koh-Teh Yi Wen</li>
-<li>Assistant Year Head Upper Sec - Mr Muhd Yusoff Abdul Gulam</li>
 <li>Assistant Year Head Lower Sec - Mr Thomas Chen</li>
 <li>Level Manager - Mr V. Pachaiperumal</li>
 <li>Level Manager - Mr David Sagayaraj</li>
-<li>Level Manager - Mr Quek Hian Hua</li>
 </ul>
 <p><u><strong>Student Development Support</strong></u></p>
 <ul>
@@ -271,7 +268,7 @@ third_nav_title: Departments
 <tr>
 <td style="text-align: center;">2</td>
 <td>Smoking Cessation/Blitz Program</td>
-<td style="text-align: center;">Small Group &ndash; Smokers From All levels</td>
+<td style="text-align: center;">Small Group – Smokers From All levels</td>
 <td>Students will be continuously undergoing group therapy; high level motivational aspects will be delivered to these students in many forms, some of which will have to come from the school values itself. Relapse, reflection, epiphany and enlightening realization sessions will be carried out occasionally to inculcate this values and strengths within the group.</td>
 </tr>
 <tr>
@@ -282,7 +279,7 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
-<td>International Students&rsquo; Program</td>
+<td>International Students’ Program</td>
 <td style="text-align: center;">All International Students</td>
 <td>Students go through a series of cultural immersion programs and bonding sessions with their fellow international and local students. This is done through various learning journeys and BBQ sessions/outings. These learning journeys allow international students to understand and immerse into Spore culture, while the bonding sessions helps them settle comfortably in school.</td>
 </tr>
@@ -296,13 +293,13 @@ third_nav_title: Departments
 <td style="text-align: center;">6</td>
 <td>Educational Career Guidance (ECG)</td>
 <td style="text-align: center;">All</td>
-<td>ECG comprises of three components:<br />1) The formal curriculum which is conducted during CCE lessons, focusing on SEL competencies<br />2) The online sessions on &lsquo;MySkillsFuture Students Portal&rsquo; where students go through a series of questions that does a career profiling and information on course criteria and tertiary institutions<br />3) Job Attachments<br />4) Tertiary Institution Visits All these sessions equips students with the required knowledge of the various industries available and allows them to set sensible targets, make responsible decisions and work towards their goal and attain the required skills.<br /><br />More information on ECG can be obtained from <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance" target="_blank" rel="noopener">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance</a></td>
+<td>ECG comprises of three components:<br>1) The formal curriculum which is conducted during CCE lessons, focusing on SEL competencies<br>2) The online sessions on ‘MySkillsFuture Students Portal’ where students go through a series of questions that does a career profiling and information on course criteria and tertiary institutions<br>3) Job Attachments<br>4) Tertiary Institution Visits All these sessions equips students with the required knowledge of the various industries available and allows them to set sensible targets, make responsible decisions and work towards their goal and attain the required skills.<br><br>More information on ECG can be obtained from <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance" target="_blank" rel="noopener">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">7</td>
 <td>Sexuality Education (SEd)</td>
 <td style="text-align: center;">All</td>
-<td>Sexuality Education is delivered in a holistic manner through the school&rsquo;s Character &amp; Citizenship Education (CCE) curriculum. The content for Sexuality Education is grouped into five main themes:&nbsp;<strong>Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law</strong>.<br /><br />Sec 1 to 5 students go through a formal curriculum on sexuality education&nbsp;that focuses on their social emotional competencies like Self Awareness, Social Awareness, Responsible Decision Making, Self-Management and Relationship Management. Sec 3 go through an additional e-teens component. More information is provided under&nbsp;<strong>&lsquo;Special Programs-Sexuality Education&rsquo;</strong>&nbsp;in the school website and MOE&rsquo;s website&nbsp;<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education</a></td>
+<td>Sexuality Education is delivered in a holistic manner through the school’s Character &amp; Citizenship Education (CCE) curriculum. The content for Sexuality Education is grouped into five main themes:&nbsp;<strong>Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law</strong>.<br><br>Sec 1 to 5 students go through a formal curriculum on sexuality education&nbsp;that focuses on their social emotional competencies like Self Awareness, Social Awareness, Responsible Decision Making, Self-Management and Relationship Management. Sec 3 go through an additional e-teens component. More information is provided under&nbsp;<strong>‘Special Programs-Sexuality Education’</strong>&nbsp;in the school website and MOE’s website&nbsp;<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education" target="_blank" rel="noopener">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">8</td>
@@ -353,7 +350,7 @@ third_nav_title: Departments
 <li>Parents Support Group Bursary</li>
 </ul>
 <li>NWCDC Partners Award (Gold)</li>
-<li>Peoples&rsquo; Association Community Spirit Award (Merit)</li>
+<li>Peoples’ Association Community Spirit Award (Merit)</li>
 <li>VIA Projects for Sec 5 (World) - Sec 5 Leo &amp; 4 Arm raised $1620 and adopted 3 children from World Vision (increase of 1 child since the adoption in 2015)</li>
-<li>VIA Projects for Sec 3 Lin &amp; 3 Goe (Community) &ndash; Students of each class organized a block party themed National Day &amp; Hari Raya respectively, engaging the residents at Marsiling Blk 16 (Fuchun&rsquo;s adopted block) in songs, dance, games and food.</li>
-</ul>
+<li>VIA Projects for Sec 3 Lin &amp; 3 Goe (Community) – Students of each class organized a block party themed National Day &amp; Hari Raya respectively, engaging the residents at Marsiling Blk 16 (Fuchun’s adopted block) in songs, dance, games and food.</li>
+</ul></div>

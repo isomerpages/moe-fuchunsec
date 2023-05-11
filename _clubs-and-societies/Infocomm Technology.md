@@ -3,7 +3,7 @@ title: Infocomm Technology
 permalink: /experience/co-curricular-activities/clubs-n-societies/infocomm-technology/
 description: ""
 ---
-<img src="/images/info1.jpeg">
+![](/images/CCA%202023/infocomm%20club%202.jpg)
 <table>
 <tbody>
 <tr>
@@ -30,7 +30,7 @@ description: ""
 <li><strong>Photography/Animation competition</strong></li>
 <li><strong>Participation in School Digital Media Awards</strong></li>
 </ul>
-<p>The Fuchun Infocomm Club aims to provide quality service to the school community by empowering Fuchun students to integrate media and ICT tools with innovative ideas and solutions, in line with MOE&rsquo;s 2015 outcomes, which are to equip our students with 21st century skills and develop them to become confident persons, self-directed learners, active contributors and concerned citizens.</p>
+<p>The Fuchun Infocomm Club aims to provide quality service to the school community by empowering Fuchun students to integrate media and ICT tools with innovative ideas and solutions, in line with MOE’s 2015 outcomes, which are to equip our students with 21st century skills and develop them to become confident persons, self-directed learners, active contributors and concerned citizens.</p>
 <p>Keeping in line with this vision, student members of the Infocomm Club are trained in techniques of photography, filming, video journalism and usage of editing software such as Adobe Photoshop and Adobe Flash Premiere within their four to five years in the club. To further test and hone their acquired skills, members are exposed to various competition platforms such as the Schools Digital Media Awards (SDMA), N.E.mation! Competition.</p>
 <p>Starting from 2012 the Infocomm Club consists of four areas that students receive exposure to. They are the Digital Video, Video Journalism, Photography and the Public Address system. Our Infocomm Club members are also continually learning and adding on to their repertoire of skills as well as enhancing their technical industry knowledge such as of equipment, by active participation in Learning Journeys, workshops and short courses organised by polytechnics and JCs.</p>
 <p><strong><u>Achievements</u></strong></p>
