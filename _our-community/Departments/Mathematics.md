@@ -1,10 +1,10 @@
 ---
 title: Mathematics
-permalink: /our-community/departments/mathematics
+permalink: /our-community/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMMV5S_O8BhaPwV01rdTCbEJvUkK6oZfioXVL-AjFgBvwPrUOj24E8LbH8sMm4aHVCRteQuiycJezU/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+![](/images/Dept%202023/mathematics%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -65,8 +65,6 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Ng Chao Xiang</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mr Ong Kong Sing</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
@@ -81,8 +79,6 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Ms Tan Ying Rui</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Allied Educator</strong></td>
-<td style="text-align: center;"><strong>Mr Quek Hian Hua</strong></td>
 </tr>
 </tbody>
 </table>
