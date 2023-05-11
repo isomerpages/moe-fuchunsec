@@ -18,8 +18,7 @@ description: ""
 </td>
 <td>
 <div>Mr Kenneth Yee</div>
-<div>Ms Grace Kang</div>
-<div>Mr David Sagayaraj</div>
+<div>Ms Thomas Chen</div>
 </td>
 </tr>
 </tbody>
