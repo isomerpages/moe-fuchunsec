@@ -29,8 +29,6 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Ghanaprakasam Subramaniam</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Year Head Upper Sec</strong></td>
-<td style="text-align: center;"><strong>Mrs Desi Koh</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Subject Head CCE</strong></td>
