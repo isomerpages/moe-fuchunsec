@@ -4,12 +4,12 @@ permalink: /our-community/departments/information-n-communication-technology/
 description: ""
 third_nav_title: Departments
 ---
-<p><strong><u>Vision<br /></u></strong>A responsible ICT user who uses technology ethically and creatively to curate his learning.</p>
-<p><strong><u>Mission<br /></u></strong>To develop students who can connect and build on his learning to be future-ready.</p>
-<p><strong><u>Teachers' Mission<br /></u></strong>For Teachers to be Creative Designers of Learning Experiences with the use of Technology for Students to be Future-Ready.</p>
+<p><strong><u>Vision<br></u></strong>A responsible ICT user who uses technology ethically and creatively to curate his learning.</p>
+<p><strong><u>Mission<br></u></strong>To develop students who can connect and build on his learning to be future-ready.</p>
+<p><strong><u>Teachers' Mission<br></u></strong>For Teachers to be Creative Designers of Learning Experiences with the use of Technology for Students to be Future-Ready.</p>
 <p><strong><u>Personnel</u></strong></p>
-<img src="/images/info1.jpg">
-<p><strong>HOD ICT:&nbsp;</strong>Mr Nicholas Chua<br /><strong>Subject Head Data Management:&nbsp;</strong>&nbsp;Mr Johni Masli</p>
+<img src="/images/Dept%202023/ict,%20ebs,%20cpa%20and%20physical%20education%20department%201.jpg">
+<p><strong>HOD ICT:&nbsp;</strong>Mr Nicholas Chua<br><strong>Subject Head Data Management:&nbsp;</strong>&nbsp;Mr Johni Masli</p>
 <p><strong>ICT Champions:</strong></p>
 <ul>
 <li>English -&nbsp;Mr Kelvin Chen</li>
@@ -36,11 +36,10 @@ third_nav_title: Departments
 <li>Mr Jonathan Chew&nbsp;(IC)</li>
 <li>Mr Leong Chao Shing</li>
 </ul>
-<p><strong>ICT Support Staff:<br /></strong></p>
+<p><strong>ICT Support Staff:<br></strong></p>
 <ul>
 <li>ICT Associate - Mr Aliff Sharil Zakariah</li>
 <li>Desktop Engineer - Mr Faruq Noorfauzi</li>
-<li>Desktop Engineer - Mr Nur Hakim Latiff</li>
 </ul>
 <p><strong><u>Programmes for 2021</u></strong></p>
 <table>
