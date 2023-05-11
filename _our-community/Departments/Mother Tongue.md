@@ -1,10 +1,10 @@
 ---
 title: Mother Tongue
-permalink: /our-community/departments/mother-tongue
+permalink: /our-community/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 ---
-<img src="/images/mt.jpg">
+![](/images/Dept%202023/mother%20tongue%20languages%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -29,12 +29,7 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mdm Hafiza Yahya</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
-<td style="text-align: center;"><strong>Mr Zhang Ming</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
-<td style="text-align: center;"><strong>Ms Leow Lea Ching</strong></td>
+</tr><tr>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
@@ -49,16 +44,10 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mdm Jasmine Boo</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer - Malay Unit</strong></td>
-<td style="text-align: center;"><strong>Mdm Ruzana Awalludin</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer - Malay Unit</strong></td>
 <td style="text-align: center;"><strong>Mr Suhaini Sarikon</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Education Officer - Malay Unit</strong></td>
-<td style="text-align: center;"><strong>Mdm Noorhayati Md Turut</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer - Tamil Unit</strong></td>
@@ -86,17 +75,17 @@ third_nav_title: Departments
 <tr>
 <td><strong>Chinese Mosaic Workshop</strong></td>
 <td style="text-align: center;"><strong>Feb</strong></td>
-<td style="text-align: center;"><strong>Sec 2E/NA<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 2E/NA<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Song Appreciation Workshop</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 3<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 3<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Sand Painting Workshop</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 1<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 1<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Traditional Malay Cuisine Workshop</strong></td>
@@ -126,17 +115,17 @@ third_nav_title: Departments
 <tr>
 <td><strong>Lyrical Stories and Jejak Budaya</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 3NA/NT<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 3NA/NT<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Debate and Forum Workshop</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 3E<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 3E<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Hosting and New Casting Workshop</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 4NA/NT<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 4NA/NT<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Debating and Critical Thinking Workshop</strong></td>
@@ -156,12 +145,12 @@ third_nav_title: Departments
 <tr>
 <td><strong>Traditional Indian Music Workshop</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 3<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 3<br>Selected Students</strong></td>
 </tr>
 <tr>
 <td><strong>Tamil Unit Non-residential Camp</strong></td>
 <td style="text-align: center;"><strong>Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 1/2/3<br />Selected Students</strong></td>
+<td style="text-align: center;"><strong>Sec 1/2/3<br>Selected Students</strong></td>
 </tr>
 </tbody>
 </table>
