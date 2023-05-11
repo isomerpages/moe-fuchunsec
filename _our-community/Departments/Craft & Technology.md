@@ -1,10 +1,10 @@
 ---
 title: Craft & Technology
-permalink: /our-community/departments/craft-n-technology
+permalink: /our-community/departments/craft-n-technology/
 description: ""
 third_nav_title: Departments
 ---
-<img src="/images/vnt.jpg">
+![](/images/Dept%202023/craft%20and%20technology%20department%201.jpg)
 <table>
 <tbody>
 <tr>
@@ -33,10 +33,7 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mr Adrian Tan</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer - Design &amp; Technology Unit</strong></td>
-<td style="text-align: center;"><strong>Mr Andrew Chan</strong></td>
-</tr>
-<tr>
+</tr><tr>
 <td style="text-align: center;"><strong>Education Officer - Design &amp; Technology Unit</strong></td>
 <td style="text-align: center;"><strong>Mr Richard Au</strong></td>
 </tr>
