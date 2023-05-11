@@ -82,8 +82,8 @@ description: ""
 <td style="text-align: left;"><strong>Subject Head Mathematics</strong></td>
 </tr>
 <tr>
-<td style="text-align: right;"><a href="mailto:wong_yih_check@moe.edu.sg" target=""><strong>Mr Wong Yih Check</a></strong></td>
-<td style="text-align: left;"><strong>Subject Head Chemistry</strong></td>
+<td style="text-align: right;"><a href="mailto:wong_yih_check@moe.edu.sg" target=""><strong>Mr Wong Yih Check</strong>
+</a></td><td style="text-align: left;"><strong>Subject Head Chemistry</strong></td>
 </tr>
 <tr>
 <td style="text-align: right;"><a href="mailto:muhammad_faizal_osman@moe.edu.sg" target=""><strong>Mr Muhd Faizal Osman</strong></a></td>
