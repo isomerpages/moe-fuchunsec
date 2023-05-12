@@ -9,8 +9,7 @@ description: ""
 <td style="width: 20%;"><img src="/images/news.jpg"></td>
 <td style="width: 80%;"><p><strong>2023 Class Timetable Sem 1<br></strong>Dear Students, here is your timetable for 2023 Semester 1. See you soon &amp; stay safe!</p>
 <p style="text-align: right;"><a href="/information/class-timetable">Read More...</a></p></td>
-</tr>
-<tr>
+</tr><tr>
 <td style="width: 20%;"><img src="/images/73a408d6c_3554.png"></td>
 <td style="width: 80%;"><p><strong>Purchase of School Uniform and Books<br></strong>Dear All, here is the information for purchasing of school uniform and books for 2023</p>
 <p style="text-align: right;"><a href="/information/For-Parents/purchase-of-school-textbook-and-uniform-for-2023/">Read More...</a></p></td>
