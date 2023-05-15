@@ -92,27 +92,27 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td><strong>Mathematics Trivia</strong></td>
-<td style="text-align: center;"><strong>Bi-Monthly</strong></td>
-<td style="text-align: center;"><strong>All Levels</strong></td>
-</tr>
-<tr>
-<td><strong>Mathematics Article Reading</strong></td>
 <td style="text-align: center;"><strong>Monthly</strong></td>
 <td style="text-align: center;"><strong>All Levels</strong></td>
 </tr>
 <tr>
-<td><strong>Sharing on Math Learning by Alumni</strong></td>
-<td style="text-align: center;"><strong>Jan - Mar</strong></td>
-<td style="text-align: center;"><strong>Sec 4/5</strong></td>
-</tr>
-<tr>
-<td><strong>43rd International C.B. Paul Science Quiz 2022</strong></td>
-<td style="text-align: center;"><strong>Feb</strong></td>
+<td><strong>44th International C.B. Paul Science Quiz 2023</strong></td>
+<td style="text-align: center;"><strong>March</strong></td>
 <td style="text-align: center;"><strong>Sec 4</strong></td>
 </tr>
 <tr>
-<td><strong>Mathematics Week</strong></td>
-<td style="text-align: center;"><strong>Jul</strong></td>
+<td><strong>Sharing on Math Learning by Alumni</strong></td>
+<td style="text-align: center;"><strong>March</strong></td>
+<td style="text-align: center;"><strong>Sec 4/5</strong></td>
+</tr>
+<tr>
+<td><strong>International Friendship Day (With Mathematics)</strong></td>
+<td style="text-align: center;"><strong>April</strong></td>
+<td style="text-align: center;"><strong>All Levels</strong></td>
+</tr>
+<tr>
+	<td><strong>Math Library Quiz</strong></td>
+<td style="text-align: center;"><strong>April</strong></td>
 <td style="text-align: center;"><strong>All Levels</strong></td>
 </tr>
 <tr>
