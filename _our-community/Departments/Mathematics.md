@@ -122,3 +122,13 @@ third_nav_title: Departments
 </tr>
 </tbody>
 </table>
+
+
+**1\. International Friendship Day (Math x CCE)**
+![](/images/mathxcce1.png) ![](/images/mathxcce2.png)
+
+**2\. Sharing of Math Learning by Alumni**
+![](/images/sharing%20of%20math%20learning%20by%20alumni.png)
+
+**3\. Math Library Quiz**
+![](/images/math%20library%20quiz.png)
