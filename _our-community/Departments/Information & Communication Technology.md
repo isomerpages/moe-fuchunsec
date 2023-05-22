@@ -41,32 +41,3 @@ third_nav_title: Departments
 <li>ICT Associate - Mr Aliff Sharil Zakariah</li>
 <li>Desktop Engineer - Mr Faruq Noorfauzi</li>
 </ul>
-<p><strong><u>Programmes for 2021</u></strong></p>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;"><strong>Programmes</strong></th>
-<th style="text-align: center;"><strong>Date/Month</strong></th>
-<th style="text-align: center;"><strong>Target Group</strong></th>
-<th style="text-align: center;"><strong>Enrichment/Curriculum</strong></th>
-</tr>
-<tr>
-<td>Home-Based Learning Exercise - Day One</td>
-<td style="text-align: center;">13 Apr</td>
-<td style="text-align: center;">All Levels</td>
-<td style="text-align: center;">Curriculum</td>
-</tr>
-<tr>
-<td>Cyber Wellness Day</td>
-<td style="text-align: center;">18 Jul</td>
-<td style="text-align: center;">All Levels</td>
-<td style="text-align: center;">Curriculum</td>
-</tr>
-<tr>
-<td>Home-Based Learning Exercise - Day Two</td>
-<td style="text-align: center;">27 Jul</td>
-<td style="text-align: center;">Sec 1 - 3</td>
-<td style="text-align: center;">Curriculum</td>
-</tr>
-</tbody>
-</table>
