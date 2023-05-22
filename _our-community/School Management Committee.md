@@ -3,6 +3,8 @@ title: School Management Committee
 permalink: /our-community/school-management-committee/
 description: ""
 ---
+![](/images/school%20management%20committee%201.jpg)
+
 <table>
 <tbody>
 <tr>
