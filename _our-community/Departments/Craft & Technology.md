@@ -54,10 +54,6 @@ third_nav_title: Departments
 <td style="text-align: center;"><strong>Mdm Roszilah Abd Rahim</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Education Officer - NFS Unit</strong></td>
-<td style="text-align: center;"><strong>Mdm Sarina Samat</strong></td>
-</tr>
-<tr>
 <td style="text-align: center;"><strong>Education Workshop Instructor</strong></td>
 <td style="text-align: center;"><strong>Mr Azlan Baharom</strong></td>
 </tr>
