@@ -58,10 +58,6 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer</strong></td>
-<td style="text-align: center;"><strong>Mr Sonny Liang</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Education Officer</strong></td>
 <td style="text-align: center;"><strong>Mr James Li</strong></td>
 </tr>
 <tr>
