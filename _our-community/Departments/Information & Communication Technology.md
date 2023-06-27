@@ -17,7 +17,6 @@ third_nav_title: Departments
 <li>Mother Tongue (CL) - Mdm Chew Siew Keng</li>
 <li>Humanities - Mr Thomas Chen</li>
 <li>Craft &amp; Technology - Ms Grace Kang</li>
-<li>Physical Education -&nbsp;Mr Sonny Liang</li>
 </ul>
 <p><strong>Computer Applications Teachers:</strong></p>
 <ul>
