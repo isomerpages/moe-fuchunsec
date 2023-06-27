@@ -21,9 +21,7 @@ description: ""
 <div><em>Performing Arts Studio 1 (#A04-04)</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mdm Xu Ping</div>
 <div>Ms Yee Ting</div>
-<div>Mdm Halimah</div>
 </td>
 </tr>
 </tbody>

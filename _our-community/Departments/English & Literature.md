@@ -37,10 +37,7 @@ third_nav_title: Departments
 <tr>
 <td style="text-align: center;"><strong>Senior Teacher English</strong></td>
 <td style="text-align: center;"><strong>Mdm Hanim Ali</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Senior Teacher English</strong></td>
-<td style="text-align: center;"><strong>Mdm Halimah Marjubee</strong></td>
+
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Literature Coordinator</strong></td>

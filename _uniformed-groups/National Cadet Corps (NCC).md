@@ -19,7 +19,6 @@ description: ""
 <div><em>School Parade Ground</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mr LH Liang&nbsp;(Unit Commanding Officer)</div>
 <div>Mr V. Pachaiperumal&nbsp;(Teacher Officer)</div>
 <div>Mr Wong Yih Check</div>
 </td>

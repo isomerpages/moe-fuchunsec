@@ -12,7 +12,6 @@ third_nav_title: Departments
 <p><strong>PE Teachers:&nbsp;</strong></p>
 <ul>
 <li>Mr Nicholas Chua (HOD ICT)</li>
-<li>Mr Sonny Liang</li>
 <li>Mr&nbsp;Neville Teo</li>
 </ul>
 <p><strong><u>Programmes for 2022</u></strong></p>

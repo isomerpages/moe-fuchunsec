@@ -37,13 +37,11 @@ third_nav_title: Departments
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
-<td style="text-align: center;"><strong>Mdm Xu Ping</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
 <td style="text-align: center;"><strong>Mdm Jasmine Boo</strong></td>
 </tr>
 <tr>
+	<td style="text-align: center;"><strong>Education Officer - Chinese Unit</strong></td>
+<td style="text-align: center;"><strong>Mr Bong Yi Kuan </strong></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Education Officer - Malay Unit</strong></td>

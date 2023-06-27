@@ -17,7 +17,6 @@ description: ""
 <div><em>Performing Arts Studio 3 (#B03-03)</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mdm Sarina Samat</div>
 <div>Mdm Hanim Ali</div>
 <div>Mdm Erfasiah Abdul Rahim</div>
 </td>
