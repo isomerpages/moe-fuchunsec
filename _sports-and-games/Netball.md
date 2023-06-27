@@ -21,7 +21,6 @@ description: ""
 <td style="text-align: center;">
 <div>Mr Neville Teo</div>
 <div>Ms Madeline Koh</div>
-<div> Mr Alvin Chan </div>
 </td>
 </tr>
 </tbody>
