@@ -14,9 +14,9 @@ third_nav_title: For Students
 [4NA Prelim Timetable 2023](/files/4n%20prelim%20timetable%202023_4na.pdf)
 
 
-## Sec 3 WA3 2023
-[WA3 Schedule (Sec 3 Express)](/files/wa3%20schedule%20(sec%203%20express).pdf)
+## Sec 3 EOY 2023
+[EOY Schedule (Sec 3 Express)](/files/2023%20sec%203exp%20eoy%20timetable.pdf)
 
-[WA3 Schedule (Sec 3 Normal Academic)](/files/wa3%20schedule%20(sec%203%20normal%20academic).pdf)
+[EOY Schedule (Sec 3 Normal Academic)](/files/2023%20sec%203na%20eoy%20timetable.pdf)
 
-[WA3 Schedule (Sec 3 Normal Technical)](/files/wa3%20schedule%20(sec%203%20normal%20technical).pdf)
+[EOY Schedule (Sec 3 Normal Technical)](/files/2023%20sec%203nt%20eoy%20timetable.pdf)
