@@ -6,6 +6,11 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+	</tr><tr>
+<td style="width: 20%;"><img src="/images/in.jpg"></td>
+<td style="width: 80%;"><p><strong>Student iCON Google Takeout<br></strong>   (For Graduating Students) Student iCON users
+Google Takeout Guide to Back up Student iCON Data </p>
+<p style="text-align: right;"><a href="/files/'graduatingstudents2023iconbackup.pdf">Read More...</a></p></td>	
 </tr><tr>
 <td style="width: 20%;"><img src="/images/Exams.jpg"></td>
 <td style="width: 80%;"><p><strong>Latest Exam Schedule<br></strong>Dear students, here is the schedule for your N Level Prelim Examinations. All the best!</p>
