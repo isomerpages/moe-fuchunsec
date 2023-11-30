@@ -31,7 +31,7 @@ Please see table for more details.
 
 | **Uniform**                                       | **Details**                                                         |
 |-----------------------------------------------|-----------------------------------------------------------------|
-| Pants / Culotte, Black Shorts, Socks, Shoes    | Chop Kong Chong, Sembawang Shopping Centre, 604 Sembawang Road, #02-13, Singapore 758459, Tel: 6753 1489 (Call to check stock) |
+| Pants / Culotte, Black Shorts, Socks, Shoes    | Chop Kong Chong<br> Sembawang Shopping Centre<br>604 Sembawang Road, #02-13, Singapore 758459<br>Tel: 6753 1489<br>*(You may call to check for stock availability)* |
 | Polo-T / PE T-shirt                            | School will provide an update by end Dec via Parents Gateway (PG) |
 
 
