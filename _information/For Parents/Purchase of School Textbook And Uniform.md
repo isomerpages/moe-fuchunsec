@@ -14,7 +14,7 @@ To Order:
 
 *   Log on to&nbsp;[https://www.oapl.sg](https://www.oapl.sg/)&nbsp;to place online orders for home delivery 
     
-*   Please refer to the FAQ on how to place an order or book an appointment at&nbsp;[https://oapl.sg/faq](https://oapl.sg/faq)
+*   Please refer to the FAQ on how to place an order at [https://oapl.sg/faq](https://oapl.sg/faq)
 
   
 
