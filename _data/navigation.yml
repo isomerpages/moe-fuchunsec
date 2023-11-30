@@ -56,6 +56,8 @@ links:
     sublinks:
       - title: Insurance Claim
         url: /information/For-Parents/Insurance-Claim/
+      - title: Purchase of Textbook & Uniform
+        url: /permalink/information/for-parents/purchase-of-school-textbook-and-uniform-for-2024/
       - title: NDLP
         url: /information/national-digital-literacy-programme
       - title: School-Home Link
@@ -66,10 +68,8 @@ links:
         url: /information/sexuality-education
       - title: Travel Declaration
         url: https://docs.google.com/forms/d/e/1FAIpQLSexuYVAe0YvsY_Rvz4fy67AvTLnHqMRJxhX6d6cGF-uAaJQrQ/viewform
-      - title: Financial Assistance Scheme
+      - title: MOE FAS
         url: /information/moe-financial-assistance-scheme
-      - title: Purchase of Textbook & Uniform
-        url: /permalink/information/for-parents/purchase-of-school-textbook-and-uniform-for-2024/
   - title: For Students
     url: /information/ict-acceptable-use-policy
     sublinks:
