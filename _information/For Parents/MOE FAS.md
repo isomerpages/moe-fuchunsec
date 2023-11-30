@@ -1,5 +1,5 @@
 ---
-title: MOE Financial Assistance Scheme
+title: MOE FAS
 permalink: /information/moe-financial-assistance-scheme/
 description: ""
 third_nav_title: For Parents

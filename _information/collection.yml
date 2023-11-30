@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - For Parents/Insurance Claim.md
-      - For Parents/Purchase of School Textbook And Uniform For 2024.md
-      - For Parents/National Digital Literacy Programme.md
+      - For Parents/Purchase of School Textbook And Uniform.md
+      - For Parents/NDLP.md
       - For Parents/School Home Link.md
       - For Parents/Road Safety.md
       - For Parents/Sexuality Education.md
       - For Parents/Travel Declaration.md
-      - For Parents/MOE Financial Assistance Scheme.md
+      - For Parents/MOE FAS.md
       - For Parents/.keep
       - For Students/ICT Acceptable Use Policy.md
       - For Students/Post Secondary Education.md
