@@ -1,0 +1,11 @@
+collections:
+  performing-arts:
+    output: true
+    order:
+      - Modern Dance.md
+      - Malay Dance.md
+      - Chinese Dance.md
+      - Indian Dance.md
+      - Guitar Ensemble.md
+      - Concert Band.md
+      - Festive Drums & Lion Dance Troupe.md

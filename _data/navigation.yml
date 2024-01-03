@@ -1,0 +1,87 @@
+logo: /images/fuchun.jpeg
+links:
+  - title: Our School
+    url: /our-school/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /our-school/principals-message
+      - title: Visions, Mission and Values
+        url: /our-school/visions-mission-and-values
+      - title: Student Creed
+        url: /our-school/student-creed
+      - title: Crest, Motto & Song
+        url: /our-school/crest-motto-n-song
+      - title: History
+        url: /our-school/history
+      - title: Our Mascot
+        url: /our-school/our-mascot
+      - title: Fuchun Stories
+        url: /our-school/fuchun-stories
+      - title: Fuchun Fun Facts
+        url: /our-school/fuchun-fun-facts
+      - title: Contact Us
+        url: /contact-us/
+  - title: Experience
+    url: /experience/co-curricular-activities
+    sublinks:
+      - title: Co-Curricular Activities
+        url: /experience/co-curricular-activities
+      - title: Special Programmes
+        url: /experience/special-programmes/environmental-programme
+      - title: Learning For Life Programme
+        url: /experience/the-learning-for-life-programme-llp
+      - title: Applied Learning Programme
+        url: /experience/the-applied-learning-programme-alp
+      - title: 30th Anniversary Dance Maratho
+        url: /experience/30th-anniversary-dance-marathon
+  - title: Our Community
+    url: /our-community/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-community/school-advisory-committee
+      - title: School Management Committee
+        url: /our-community/school-management-committee
+      - title: Departments
+        url: /our-community/departments/english-n-literature
+      - title: GPs & Co-GPs
+        url: /our-community/gps-n-co-gps
+      - title: Parent Support Group (PSG)
+        url: /our-community/parent-support-group-psg
+      - title: Alumni
+        url: /our-community/alumni
+  - title: For Parents
+    url: /information/national-digital-literacy-programme
+    sublinks:
+      - title: Insurance Claim
+        url: /information/For-Parents/Insurance-Claim/
+      - title: Purchase of Textbook & Uniform
+        url: /information/for-parents/purchase-of-school-textbook-and-uniform-for-2024/
+      - title: NDLP
+        url: /information/national-digital-literacy-programme
+      - title: School-Home Link
+        url: /information/school-home-link
+      - title: Road Safety
+        url: /files/Road%20Safety%20Traffic%20Management%20Plan.pdf
+      - title: Sexuality Education
+        url: /information/sexuality-education
+      - title: Travel Declaration
+        url: https://docs.google.com/forms/d/e/1FAIpQLSexuYVAe0YvsY_Rvz4fy67AvTLnHqMRJxhX6d6cGF-uAaJQrQ/viewform
+      - title: MOE FAS
+        url: /information/moe-financial-assistance-scheme
+  - title: For Students
+    url: /information/ict-acceptable-use-policy
+    sublinks:
+      - title: ICT Acceptable Use Policy
+        url: /information/ict-acceptable-use-policy
+      - title: Post-Secondary Education
+        url: /files/MOE%20post-secondary-brochure.pdf
+      - title: School Calendar
+        url: /information/school-calendar
+      - title: WA & Examination Schedule
+        url: /information/examination-schedule
+      - title: Class Timetable
+        url: /information/class-timetable
+      - title: CCA Timetable
+        url: /files/CCA_Deployment_T1_For_Website.pdf
+      - title: Useful Links
+        url: /information/useful-links

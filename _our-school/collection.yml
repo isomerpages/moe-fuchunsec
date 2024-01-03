@@ -1,0 +1,12 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - Visions, Mission and Values.md
+      - Student Creed.md
+      - Crest, Motto & Song.md
+      - History.md
+      - Our Mascot.md
+      - Fuchun Stories.md
+      - Fuchun Fun Facts.md

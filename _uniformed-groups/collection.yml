@@ -1,0 +1,7 @@
+collections:
+  uniformed-groups:
+    output: true
+    order:
+      - National Cadet Corps (NCC).md
+      - Girl Guides.md
+      - Boys Brigade.md
