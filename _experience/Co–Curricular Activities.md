@@ -2,6 +2,7 @@
 title: Co–Curricular Activities
 permalink: /experience/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 <img src="/images/cca.png"><br>
 <table>
@@ -18,10 +19,9 @@ description: ""
 <li><a href="/experience/co-curricular-activities/performing-arts/guitar-ensemble" target="">Guitar Ensemble</a></li>
 <li><a href="/experience/co-curricular-activities/performing-arts/concert-band" target="">Concert Band</a></li>
 <li><a href="/experience/co-curricular-activities/performing-arts/festive-drums-n-lion-dance-troupe" target="">Festive Drums &amp; Lion Dance Troupe</a></li>
-<li><a href="/experience/co-curricular-activities/performing-arts/modern-dance" target="">Modern Dance</a></li>
-<li><a href="/experience/co-curricular-activities/performing-arts/malay-dance" target="">Malay Dance</a></li>
-<li><a href="/experience/co-curricular-activities/performing-arts/chinese-dance" target="">Chinese Dance</a></li>
-<li><a href="/experience/co-curricular-activities/performing-arts/indian-dance" target="">Indian Dance</a></li>
+<li><a href="/experience/co-curricular-activities/performing-arts/modern-dance" target=""> Dance</a></li>
+
+
 </ul>
 </td>
 <td>
