@@ -2,6 +2,7 @@
 title: Netball
 permalink: /experience/co-curricular-activities/sports-n-games/netball/
 description: ""
+variant: markdown
 ---
 <p><strong><u>Motto<br></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p>
 <p><strong><u>About Us<br></u></strong>Being part of the Fuchun Netball Team translates to having a second family. The CCA focuses on developing committed, passionate and responsible athletes.&nbsp;mphasis is also placed on inculcating&nbsp;self-confidence and advocating healthy lifestyle choices within the Netball Family.</p>
@@ -14,8 +15,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mondays &amp; Fridays:</div>
-<div>1530 - 1730</div>
+<div>Tuesdays:</div>
+<div>1545 - 1745</div>
 <div><em>Outdoor Netball Court</em></div>
 </td>
 <td style="text-align: center;">
