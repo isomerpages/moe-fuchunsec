@@ -21,7 +21,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Fridays: 1300 - 1530</div>
+<div>Tuesdays: 1545 - 1745</div>
+<div>Fridays: 1430 - 1630</div>
 <div><em>DNT Workshop 1</em></div>
 </td>
 <td style="text-align: center;">
