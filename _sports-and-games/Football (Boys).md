@@ -18,10 +18,11 @@ variant: markdown
 <div><em>School Field</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mr Muhd Faizal Osman</div>
+<div>I/C: Mr Suhaini Sarikon</div>
+<div>2ND I/C: Mr Muhd Faizal Osman</div>
 <div>
 <div>Mr Ghanaprakasam Subramaniam&nbsp;</div>
-<div>Mr Suhaini Sarikon</div>
+
 </div>
 </td>
 </tr>
