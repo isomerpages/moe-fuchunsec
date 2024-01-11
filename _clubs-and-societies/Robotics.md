@@ -26,8 +26,8 @@ variant: markdown
 <div><em>DNT Workshop 1</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mr Richard Au</div>
-<div>Mr Thomas Chen</div>
+<div>I/C: Mr Thomas Chen</div>
+<div>2ND I/C: Mr James Ng</div>
 </td>
 </tr>
 </tbody>
