@@ -2,6 +2,7 @@
 title: Singapore Youth Flying Club
 permalink: /experience/co-curricular-activities/clubs-n-societies/singapore-youth-flying-club/
 description: ""
+variant: markdown
 ---
 <p><strong><u>Vision</u><u><br></u></strong>Encourage its Members to Participate in the Private Pilot's License (PPL) &amp; Wings.</p>
 <p><strong><u>Mission<br></u></strong>To promote aviation among youths and inculcate in them a strong passion for flying. This is done through its aeromodelling, glider, drone and remote control courses in school and competitions.</p>
