@@ -2,6 +2,7 @@
 title: Concert Band
 permalink: /experience/co-curricular-activities/performing-arts/concert-band/
 description: ""
+variant: markdown
 ---
 <img src="/images/CCA%202023/concert%20band%201.jpg">
 <table style="margin-left: auto; margin-right: auto;">
@@ -12,13 +13,13 @@ description: ""
 </tr>
 <tr style="text-align: center;">
 <td>
-<div>Tuesdays: 1530&nbsp;- 1730</div>
-<div>Fridays: 1330&nbsp;- 1530</div>
+<div>Tuesdays: 1545 - 1745</div>
+<div>Fridays: 1400 - 1600</div>
 <div><em>Band Room (Basement)</em></div>
 </td>
 <td>
 <div>Mr Kenneth Yee</div>
-<div>Ms Thomas Chen</div>
+<div>Mdm Hanim</div>
 </td>
 </tr>
 </tbody>
