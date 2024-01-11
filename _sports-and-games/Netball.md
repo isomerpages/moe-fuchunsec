@@ -2,41 +2,6 @@
 title: Netball
 permalink: /experience/co-curricular-activities/sports-n-games/netball/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p><strong><u>Motto<br></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p>
-<p><strong><u>About Us<br></u></strong>Being part of the Fuchun Netball Team translates to having a second family. The CCA focuses on developing committed, passionate and responsible athletes.&nbsp;mphasis is also placed on inculcating&nbsp;self-confidence and advocating healthy lifestyle choices within the Netball Family.</p>
-<img src="/images/CCA%202023/netball%201.jpg">
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Training Days &amp; Time</th>
-<th style="text-align: center;">Teacher(s)-In-Charge</th>
-</tr>
-<tr>
-<td style="text-align: center;">
-<div>Tuesdays:</div>
-<div>1545 - 1745</div>
-<div><em>Outdoor Netball Court</em></div>
-</td>
-<td style="text-align: center;">
-<div>Mr Neville Teo</div>
-<div>Ms Madeline Koh</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Events &amp; Achievements:</strong></p>
-<ul>
-<li>National School Games ('B' Division) - Participation</li>
-<li>Daisy Tan Carnival, National Schools Games ('C' Division) - Participation</li>
-<li>North Zone Netball Competition 2017 ('B' Division) - Participation</li>
-<li>North Zone Netball Competition 2017 ('C' Division) - Participation</li>
-<li>M1 Challenge 2017 ('B' Division) - Participation</li>
-<li>M1 Challenge 2017 ('C' Division) - Participation</li>
-<li>Student-organised Values-in-Action Project with Big Apple Child Care &amp; Development<br>Centre (15 March 2017)</li>
-</ul>
-<p><strong><u>Photos</u></strong></p>
-<img src="/images/nb2.png">
-<img src="/images/nb3.png">
-<img src="/images/nb4.png">
+<p><strong><u>Motto<br></u></strong><em>'Mens sana in corpore sano' - Latin Aphorism,&nbsp;</em>which means"A Sound Mind in a Sound Body"</p><p><strong><u>About Us<br></u></strong>Being part of the Fuchun Netball Team translates to having a second family. The CCA focuses on developing committed, passionate and responsible athletes.&nbsp;mphasis is also placed on inculcating&nbsp;self-confidence and advocating healthy lifestyle choices within the Netball Family.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/CCA%202023/netball%201.jpg"></div><table><tbody><tr><th rowspan="1" colspan="1"><p>Training Days &amp; Time</p></th><th rowspan="1" colspan="1"><p>Teacher(s)-In-Charge</p></th></tr><tr><td rowspan="1" colspan="1"><p>Tuesdays:</p><p>1545 - 1745</p><p><em>Outdoor Netball Court</em></p></td><td rowspan="1" colspan="1"><p>Mr Neville Teo</p><p>Ms Madeline Koh</p></td></tr></tbody></table><p><strong>Events &amp; Achievements:</strong></p><ul data-tight="true" class="tight"><li><p>National School Games ('B' Division) - Participation</p></li><li><p>Daisy Tan Carnival, National Schools Games ('C' Division) - Participation</p></li><li><p>North Zone Netball Competition 2017 ('B' Division) - Participation</p></li><li><p>North Zone Netball Competition 2017 ('C' Division) - Participation</p></li><li><p>M1 Challenge 2017 ('B' Division) - Participation</p></li><li><p>M1 Challenge 2017 ('C' Division) - Participation</p></li><li><p>Student-organised Values-in-Action Project with Big Apple Child Care &amp; Development<br>Centre (15 March 2017)</p></li></ul><p><strong><u>Photos</u></strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015437_y.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015430_y.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015436_y.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015434_y.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015435_y.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/photo_6120430338305015432_y.jpg"></div><p></p>
