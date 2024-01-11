@@ -2,6 +2,7 @@
 title: Festive Drums & Lion Dance Troupe
 permalink: /experience/co-curricular-activities/performing-arts/festive-drums-n-lion-dance-troupe/
 description: ""
+variant: markdown
 ---
 <img src="/images/CCA%202023/festive%20drums%20and%20lion%20dance%20troupe%202.jpg">
 <table>
@@ -12,12 +13,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mondays: 1530 - 1730</div>
-<div>Fridays: 1300 - 1500</div>
+<div>Tuesdays: 1545 - 1745</div>
+<div>Fridays: 1245 - 1445</div>
 <div><em>School Hall / Courtyard (Blk F)</em></div>
 </td>
 <td style="text-align: center;">
 <div>Mr James Li</div>
+	<div>Mr David Sagayaraj</div>
 </td>
 </tr>
 </tbody>
