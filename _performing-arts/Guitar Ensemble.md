@@ -2,6 +2,7 @@
 title: Guitar Ensemble
 permalink: /experience/co-curricular-activities/performing-arts/guitar-ensemble/
 description: ""
+variant: markdown
 ---
 <p><strong><u>About Us<br></u></strong>At our guitar ensemble, we believe that every student deserves and has the ability to pick up skills which will be relevant and useful in their future.</p>
 <p>Besides learning guitar skills, teachers and instructors aim to inculcate values which we hope that our students would grow to become a better person. We acknowledge that all students are different and we try our best to engage them in ways that they can perform optimally.</p>
@@ -14,8 +15,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Tuesdays &amp; Thursdays:</div>
-<div>1530 - 1730</div>
+<div>Tuesdays: 1545 - 1745</div>
+<div>Fridays: 1300 - 1400</div>
 <div><em>Guitar Room (#C02-01)</em></div>
 </td>
 <td style="text-align: center;">
