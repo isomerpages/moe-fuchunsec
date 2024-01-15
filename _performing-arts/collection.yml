@@ -2,7 +2,7 @@ collections:
   performing-arts:
     output: true
     order:
-      - Modern Dance.md
+      - Dance.md
       - Malay Dance.md
       - Chinese Dance.md
       - Indian Dance.md
