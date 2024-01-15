@@ -2,6 +2,7 @@
 title: Boys Brigade
 permalink: /experience/co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
+variant: markdown
 ---
 <img src="/images/CCA%202023/boys'%20brigade%202.jpg">
 <table>
@@ -16,16 +17,21 @@ description: ""
 <div><em>Boys Brigade Room (#H01-01)</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mrs Chan Choon Ying</div>
-<div>Ms Annabel Tay</div>
-<div>Mr Johni Masli</div>
+<div>I/C: Ms Annabel Tay</div>
+<div>2ND I/C: Miss Tan Ying Rui</div>
+<div> Mrs. Jasmine Boo </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The Boys' Brigade in Fuchun Secondary School (The Boy's Brigade 44th COMPANY) aims to be a youth organization with the development of leadership and character at the heart of its values. With a strong focus in discipline and resourcefulness, we aim to expose our Boys to a wide variety of outdoor activities, while building the requisite values.</p>
+<p>The Boys' Brigade at Fuchun Secondary School, especially the 44th Company, is dedicated to shaping leadership and character. Focused on instilling discipline and fostering resourcefulness, our CCA provides diverse outdoor activities to expose boys to unique challenges. Through these experiences, we aim to cultivate essential values for personal growth and resilience..</p>
 <p><strong>Achievements:</strong></p>
 <ul>
+<li>	JM Fraser Award for Excellence – Gold (2022), High Distinction (2023)</li>
+<li>Boys’ Brigade Week – Gold (2022 – 2023)</li>
+<li>Boys’ Brigade Blaze – Bronze Honour Roll (2022 – 2023) </li>
+<li>Boys’ Brigade Character Quest – Bronze Honour and one student won runner-up competition logo design (2023)</li>
+<li>One boy obtained the best BB boy award (2022 – 2023)</li>
 <li>JM Fraser Award for Excellence - Gold Honour Roll (2010 to 2018)</li>
 <li>BB Week - Gold Honour Roll (2012 to 2018)</li>
 <li>SP CHUA Challenge Trophy (2018)</li>

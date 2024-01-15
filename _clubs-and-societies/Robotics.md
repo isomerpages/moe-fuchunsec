@@ -2,9 +2,10 @@
 title: Robotics
 permalink: /experience/co-curricular-activities/clubs-n-societies/robotics/
 description: ""
+variant: markdown
 ---
-<p><strong><u>Motto<br /></u></strong><em>"Heroes Aren't Born, They Are Built"</em></p>
-<p><strong><u>Mission<br /></u></strong>To promote:</p>
+<p><strong><u>Motto<br></u></strong><em>"Heroes Aren't Born, They Are Built"</em></p>
+<p><strong><u>Mission<br></u></strong>To promote:</p>
 <ul>
 <li>Comfortable with ambiguity and capable of seeking clarity in chaos. The Mark of an excellent Designer.</li>
 <li>Demonstrate ability to design with high level of excellence</li>
@@ -20,13 +21,13 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Fridays: 1300 - 1530</div>
+<div>Tuesdays: 1545 - 1745</div>
+<div>Fridays: 1430 - 1630</div>
 <div><em>DNT Workshop 1</em></div>
 </td>
 <td style="text-align: center;">
-<div>Mr Richard Au</div>
-<div>Mr Thomas Chen</div>
-<div>Mr Zhang Ming</div>
+<div>I/C: Mr Thomas Chen</div>
+<div>2ND I/C: Mr James Ng</div>
 </td>
 </tr>
 </tbody>

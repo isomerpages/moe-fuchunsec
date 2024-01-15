@@ -2,6 +2,7 @@
 title: Basketball (Boys)
 permalink: /experience/co-curricular-activities/sports-n-games/basketball-boys/
 description: ""
+variant: markdown
 ---
 <img src="/images/CCA%202023/basketball%201.jpg">
 <table>
@@ -12,8 +13,8 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">
-<div>Mondays &amp; Thursdays:</div>
-<div>1530 - 1730</div>
+<div>Tuesdays:</div>
+<div>1545 - 1745</div>
 <div><em>Basketball Court</em></div>
 </td>
 <td style="text-align: center;">

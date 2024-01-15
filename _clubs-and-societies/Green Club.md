@@ -2,6 +2,7 @@
 title: Green Club
 permalink: /experience/co-curricular-activities/clubs-n-societies/green-club/
 description: ""
+variant: markdown
 ---
 <p><strong><u>Vision<br></u></strong>An Environmentally Friendly Club that Advocates Love for Nature</p>
 <p><strong><u>About Us<br></u></strong>The Green Club programme allowed the members to heighten their awareness of biodiversity and environmental issues such as water resources through visits to places like Sungei Buloh and Marina Barrage. Environmentally focussed activities helped to strengthen members’ conviction towards being environmentally caring.</p>
@@ -20,7 +21,7 @@ description: ""
 <th style="text-align: center;">Teacher(s)-In-Charge</th>
 </tr>
 <tr>
-<td style="text-align: center;">Tuesdays: 1530 - 1730<br><em>SR 01 (#D01-02)</em></td>
+<td style="text-align: center;">Tuesdays: 1545 - 1745<br><em>SR 01 (#D01-02)</em></td>
 <td style="text-align: center;">Miss Annabel Lee<br>Mr Philemon Foo</td>
 </tr>
 </tbody>
