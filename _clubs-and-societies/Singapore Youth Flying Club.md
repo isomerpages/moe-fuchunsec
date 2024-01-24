@@ -38,10 +38,11 @@ variant: markdown
 <li>SYFC Interschool Competition 2019 (Flight Simulation &amp; Parrot Drone FPV)</li>
 <li>Ngee Ann Polytechnic AeroChallenge 2018</li>
 <li>GliderFest 2016 @ Republic Polytechnic</li>
-<ul>
+<li>2023 Singapore Amazing Flying Machine (SAFMC) Category B - Merit prize</li>
+<li>2023 SYFC interschool unpowered glider senior division 1st runner-up, 2nd runner-up</li>
 <li>Best Aesthetic Glider</li>
 </ul>
-</ul>
+
 <p><strong><u>Photos</u></strong></p>
 <table>
 <tbody>
