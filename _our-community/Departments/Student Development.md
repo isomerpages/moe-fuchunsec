@@ -3,6 +3,7 @@ title: Student Development
 permalink: /our-community/departments/student-development/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <p><strong><u>Vision<br></u></strong>A Learner, A Leader, An Explorer&nbsp;</p>
 <p><strong><u>Our Core Belief<br></u></strong><em><strong>Fuchun’s Student Development Team beliefs that</strong></em></p>
@@ -28,13 +29,11 @@ third_nav_title: Departments
 <p><u><strong>Student Development Support</strong></u></p>
 <ul>
 <li>HOD PE &amp; CCA - Mr Manoharan Ramasamy</li>
-<li>HOD NT - Mdm Hafiza Yahya</li>
 <li>School Counsellor -&nbsp;Mdm Rachel Lim</li>
-<li>School Counsellor -&nbsp;Mr Rajinder Singh</li>
 <li>Allied Educator (Special Needs) - Mdm Amelia Abdul Malik</li>
 <li>Operations Manager - Mr Syed Md Shariff Syed Rithwan</li>
 <li>Operations Executive - Mr Ashraff Sitorus</li>
-<li>Operations Executive - Ms Geetha Vellaithe</li>
+<li>Operations Executive - Ms Geeta Pillay d/o Krishnan</li>
 </ul>
 <p><strong><u>Department Programmes 2021</u></strong></p>
 <p><em><u>Secondary 1</u></em></p>
