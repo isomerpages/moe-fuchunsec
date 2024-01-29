@@ -96,7 +96,7 @@ variant: markdown
 </p>
 
 <p>
-  <strong>11. Parents who wish to opt</strong> their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year via Parents’ Gateway and is also downloadable <a href="insert_hyperlink_here">here</a>. The completed form is to be submitted by 20/02/2024.
+  <strong>11. Parents who wish to opt</strong> their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year via Parents’ Gateway and is also available <a href="https://form.gov.sg/admin/form/65b75ec9f3c3e64da9f8812a">here</a>. The completed form is to be submitted by 20/02/2024.
 </p>
 
 <p>
