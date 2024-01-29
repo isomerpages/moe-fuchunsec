@@ -4,12 +4,7 @@ permalink: /information/sexuality-education/secondary-5/
 description: ""
 variant: markdown
 ---
-
-
-
-  
-  
-  <style>
+<style>
     /* Your styles remain here */
 
     table {
