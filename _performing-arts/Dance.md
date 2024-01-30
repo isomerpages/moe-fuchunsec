@@ -14,7 +14,7 @@ In our commitment to enhancing their understanding of diverse dance forms, we pr
 
 ![](/images/Dance_2024.jpg)
 
-<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Training Days &amp; Time</strong></p></td><td rowspan="1" colspan="1"><p><strong>Teacher(s)-In-Charge</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Tuesdays &amp; Friday: 15:45 - 17:45</p><p><em>Performing Arts Studio 3</em></p><p></p></td><td rowspan="1" colspan="1"><p>Mdm Chew Siew Keng&amp; Mdm Roszilah</p></td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Training Days &amp; Time</strong></p></td><td rowspan="1" colspan="1"><p><strong>Teacher(s)-In-Charge</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Tuesdays / Friday: 15:45 - 17:45 / 13:00 - 15:00</p><p><em>Performing Arts Studio 3</em></p><p></p></td><td rowspan="1" colspan="1"><p>Mdm Chew Siew Keng &amp; Mdm Roszilah</p></td></tr></tbody></table>
 
 **Achievement:**
 
@@ -57,3 +57,27 @@ In our commitment to enhancing their understanding of diverse dance forms, we pr
 *   Singapore Youth Festival (SYF) Arts Presentation 2015 - Certificate of Distinction
     
 *   Singapore Youth Festival (SYF) Arts Presentation 2013 - Certificate of Accomplishment
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Malay Dance) 2023 –
+ Certificate of Distinction 
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Chinese Dance) 2023 –
+ Certificate of Accomplishment 
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Indian Dance) 2023 –
+ Certificate of Accomplishment 
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Modern Dance) 2023 – 
+Certificate of Accomplishment 
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Malay Dance ) 2021 – 
+Certificate of Distinction
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Chinese Dance ) 2021 – 
+Certificate of Accomplishment
+
+*	Singapore Youth Festival (SYF) Arts Presentation (Indian Dance ) 2021 – 
+Certificate of Accomplishment
+
+* Singapore Youth Festival (SYF) Arts Presentation (Modern Dance ) 2021 – 
+Certificate of Accomplishment

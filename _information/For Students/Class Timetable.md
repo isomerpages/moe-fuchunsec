@@ -7,6 +7,4 @@ variant: markdown
 ---
 <u>Current
 	
-[2024 Sem 1 Class Timetable](/files/2023%20SEM%201%20CLASS%20TT%20(1).pdf)
-
-</u>
+[2024 Sem 1 Class Timetable](/files/Sem_1_Class_timetable__26_Dec_.pdf)</u>
