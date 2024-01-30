@@ -5,7 +5,9 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-<u>Current
+<b>Current
 	
-[2024 Sem 1 Class Timetable](/files/sem_1_class_timetable_2024.pdf)
-</u>
+	
+[Semester 1 Class Timetable 2024](/files/sem_1_class_timetable_2024.pdf)
+
+</b>
