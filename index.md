@@ -19,8 +19,8 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
-      title: "FCS Homecoming "
-      subtitle: Add an image and text
+      title: FCS Homecoming
+      subtitle: fcs homecoming 25 may 2024
       id: infopic
       description: "A REMINISCENCE OF THE PAST: Leaving a Legacy, Living the Legacy"
       button: CLICK HERE
