@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
+      title: FCS Homecoming
+      subtitle: fcs homecoming 25 may 2024
+      id: infopic
+      description: "A REMINISCENCE OF THE PAST: Leaving a Legacy, Living the Legacy"
+      button: CLICK HERE
+      url: /our-community/alumni/permalink/
+      image: /images/WhatsApp_Image_2024_03_18_at_12_18_50_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: School Calendar
       subtitle: FCS SCHOOL PLANNER
       description: To navigate to the link please

@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /our-community/school-management-committee/
 description: ""
+variant: markdown
 ---
 ![](/images/school%20management%20committee%201.jpg)
 
@@ -54,10 +55,7 @@ description: ""
 <tr>
 <td style="text-align: right;"><a href="mailto:sivakumar_murugaya@moe.edu.sg" target=""><strong>Mr Sivakumar Murugaya</strong></a></td>
 <td style="text-align: left;"><strong>HOD Discipline</strong></td>
-</tr>
-<tr>
-<td style="text-align: right;"><a href="mailto:hafiza_yahya@moe.edu.sg" target=""><strong>Ms Hafiza Yahya</strong></a></td>
-<td style="text-align: left;"><strong>HOD NT</strong></td>
+
 </tr>
 <tr>
 <td style="text-align: right;"><a href="mailto:chua_teck_kwan_nicholas@moe.edu.sg" target=""><strong>Mr Nicholas Chua</strong></a></td>
@@ -78,10 +76,6 @@ description: ""
 <tr>
 <td style="text-align: right;"><a href="mailto:erfasiah_abd_rahim@moe.edu.sg" target=""><strong>Mdm Erfasiah Abdul Rahim</strong></a></td>
 <td style="text-align: left;"><strong>Subject Head Malay Language</strong></td>
-</tr>
-<tr>
-<td style="text-align: right;"><a href="mailto:johni_masli@moe.edu.sg" target=""><strong>Mr Johni Masli</strong></a></td>
-<td style="text-align: left;"><strong>Subject Head Mathematics</strong></td>
 </tr>
 <tr>
 <td style="text-align: right;"><a href="mailto:wong_yih_check@moe.edu.sg" target=""><strong>Mr Wong Yih Check</strong>
