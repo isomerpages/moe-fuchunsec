@@ -7,5 +7,4 @@ variant: markdown
 ---
 ## N Level Prelim Exams 2024
 
-[4NT/4NA Prelim Timetable 2023](/files/4n%20prelim%20timetable%202023%20-%204nt.pdf)
-
+[4NT/4NA Prelim Timetable 2023](/files/N_Level_Preliminary_Timetable_2024.pdf)
