@@ -22,7 +22,8 @@ sections:
       title: Grand Gala 2024
       subtitle: Fuchun Secondary SChool
       id: infopic
-      description: Living the Legacy, Leaving our Legacy
+      description: Living the Legacy, Leaving our Legacy⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Catch the
+        livestream below!
       button: CLICK HERE
       url: /our-community/alumni/permalink/
       image: /images/Grand_Gala_2024.png
