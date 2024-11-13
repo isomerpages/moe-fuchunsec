@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
+      title: Grand Gala 2024
+      subtitle: Fuchun Secondary SChool
+      id: infopic
+      description: Living the Legacy, Leaving our Legacy
+      button: CLICK HERE
+      url: /our-community/alumni/permalink/
+      image: /images/Grand_Gala_2024.png
+      alt: Image alt text
+  - infopic:
       title: School Calendar
       subtitle: FCS SCHOOL PLANNER
       description: To navigate to the link please
