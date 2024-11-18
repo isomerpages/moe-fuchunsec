@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - For Parents/Open House 2024.md
       - For Parents/Insurance Claim.md
       - For Parents/Purchase of School Textbook And Uniform.md
       - For Parents/NDLP.md
