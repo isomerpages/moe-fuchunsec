@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
+      title: WRSS Open House 2024
+      subtitle: Woodlands Ring Sec School
+      id: infopic
+      description: ✨ Join us on 23 Nov for an Open House like no other! ✨
+      button: Click here
+      url: /information/for-parents/open-house-2024/
+      image: /images/WhatsApp_Image_2024_11_18_at_12_00_40_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: Grand Gala 2024
       subtitle: Fuchun Secondary SChool
       id: infopic
