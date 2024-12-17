@@ -4,10 +4,9 @@ title: Fuchun Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/fuchun.jpeg
 permalink: /
-notification: Fuchun Secondary School is no longer active. We are pleased to
-  announce that Fuchun Secondary School has merged with Woodlands Ring Secondary
-  School.  For updates and information, please visit the Woodlands Ring
-  Secondary School website.
+notification: We are pleased to announce that Fuchun Secondary School has merged
+  with Woodlands Ring Secondary School.  For updates and information, please
+  visit the Woodlands Ring Secondary School website.
 sections:
   - hero:
       background: /images/maker.gif
