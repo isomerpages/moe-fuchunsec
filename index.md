@@ -19,6 +19,15 @@ sections:
           description: ""
           url: https://www.fuchunsec.moe.edu.sg/contact-us/
   - infopic:
+      title: Student's briefing
+      subtitle: 2024 N-Level Results
+      id: infopic
+      description: To navigate to the link please
+      button: CLICK HERE
+      url: /2024-n-level-results-briefing/
+      image: /images/N_Level_Briefing_2024_Banner.png
+      alt: Image alt text
+  - infopic:
       title: WRSS Open House 2024
       subtitle: Woodlands Ring Sec School
       id: infopic
